@@ -1,14 +1,17 @@
 ---
 layout: page
 name: index
-title: Feigenhain Initiative
+title: Welcome
 description: >
   The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll.
 last_modified_at: 2022-01-13
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
-cover: true
+cover: false
+hide_description: true
+toc: true
+toc_label: "Contents"
 ---
 # Welcome
 
