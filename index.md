@@ -1,17 +1,13 @@
 ---
 layout: page
 name: index
-title: Welcome
-description: 
-last_modified_at: 2022-01-13
+title: Welcome to the Feigenhain Initiative
+cover: true
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
-cover: true
-hide_title: true
 hide_description: true
 ---
-# Welcome to the Feigenhain Initiative
 - [Ongoing Projects](#ongoing-projects)
 - [Previous Projects](#previous-projects)
 - [About Us](#about-us)
@@ -48,3 +44,5 @@ Our aims are:
 
 # Contact
 Bla bla
+
+[Back to top](#)
