@@ -22,11 +22,12 @@ feigenhain:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         feigenhain
-    # github:          <username>
     email:           contact@feigenhain.org
-    # rss:             https://<url>/feed.xml
+    twitter:         feigenhain
     facebook:        feigenhain
+    paypal:          feigenhain
+    # github:          <username>
+    # rss:             https://<url>/feed.xml
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -58,7 +59,6 @@ feigenhain:
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
-    paypal:          feigenhain
     # download:        <url>
     # keybase          <username>
 
