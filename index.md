@@ -8,13 +8,14 @@ no_excerpt: false
 hide_image: false
 hide_description: true
 ---
+- [Support the Feigenhain Initiative!](#support-the-feigenhain-initiative)
 - [Ongoing Projects](#ongoing-campaigns)
 - [Successfully concluded Campaigns](#successfully-concluded-campaigns)
 - [About Us](#about-us)
 - [Team](#team)
 - [Contact](#contact)
 
-# Support the Feigenhain Initiative!
+# Support the Feigenhain Initiative
 You can help to fund our activities by donating once, or in a recurring way. \
 Choose the corresponding option in the Paypal dialogue box.
 
@@ -41,10 +42,15 @@ Please contribute to make this project come true.
 
 <br />
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=1.098N%2C52.403W&amp;t=m&amp;z=5&amp;output=embed&amp;iwloc=near" title="%3$s" aria-label="%3$s"></iframe>
+[![Student Centre](/assets/img/campaigns/pedrabranca-300x294.jpeg)](/assets/img/campaigns/pedrabranca.jpeg)
+[![Student Centre](/assets/img/campaigns/pedrabranca2-300x182.png)](/assets/img/campaigns/pedrabranca2.png)
 
 ### Construction Update December 2020
 
 The construction works in Amapá are ongoing. Your donations help us to advance the works of the educational center. Please continue to support us in our effort!
+
+[![Student Centre](/assets/img/campaigns/pedrabranca3-300x225.jpg)](/assets/img/campaigns/pedrabranca3.jpg)
+[![Student Centre](/assets/img/campaigns/pedrabranca4-300x225.jpg)](/assets/img/campaigns/pedrabranca4.jpg)
 
 ## Long-term individual support
 
@@ -65,6 +71,10 @@ He needs the equivalent of 300 Euros per month in order to pay for accommodation
 
 You might choose whether or not to have your name listed in our website next to his picture.
 
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-387x400.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-300x225.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-255x300.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
+
 ## Electricity for an accommodation of the indigenous NGO APIWATA
 
 Feigenhain supports the NGO APIWATA, one of the three associations created by the Wayãpi indigenous people. Today, APIWATA acts mainly in logistical support for health and education. Feigenhain’s support to APIWATA is through the payment of electricity bills relating to the Wajãpi accommodation in the city of Macapá, which is used by them for health treatment reasons or to fulfil administrative obligations. The annual cost of the energy consumption of this accommodation is around 220 Euros. You can contribute with any amount to support this initiative.
@@ -73,6 +83,8 @@ Feigenhain supports the NGO APIWATA, one of the three associations created by th
 
 ## Help Manoel
 Manoel lives in the suburbs of Macapá, in the state of Amapá, one of the poorest regions of Brazil. His whole family depends on him. In poor health, for over two years Manoel has been unable to work with his right arm which was seriously injured by a dog bite. Manoel dreams of going back to work in order to help his family, but he has no resources for a surgery, which costs about 700 Euros. Our campaign will continue until we have enough money to pay for it. You can help us achieve this dream. By contributing to this specific campaign, your entire donation will be used for Manoel’s surgery. No sum will be used to cover other expenses or operating costs of the Association, which are covered by general donations, and members’ private resources.
+
+[![Help Manoel](/assets/img/campaigns/manoel-portrait-2-300x300.jpg)](/assets/img/campaigns/manoel-portrait-2.jpg)
 
 ## Dental care for a young Amerindian in Brazil
 Feigenhain raised the necessary funds for the complete dental treatment of a young Wayãpi Amerindian in Brazil. By contributing to a specific campaign, your entire donation will go to that campaign. No sum will be used to cover other expenses or operating costs of the Association, which are coverd by general donations, and members’ private resources.
@@ -94,6 +106,21 @@ Our aims are:
 
 # Team
 
+## Cássio de Figueiredo
+
+[![Cássio de Figueiredo](/assets/img/cassio-283x300.jpg)](/assets/img/cassio.jpg)
+
+Founding member \
+Master of Research in anthropology and Bachelor of Law \
+cassio <at> feigenhain.org
+
+## Gregor Koenig
+
+[![Gregor Koenig](/assets/img/gregor-283x300.jpg)](/assets/img/gregor.jpg)
+
+Founding member \
+PhD in biomedical engineering and MSc of applied computer science.
+gregor <at> feigenhain.org 
 # Contact
 
 ## Bank
