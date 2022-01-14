@@ -71,9 +71,9 @@ He needs the equivalent of 300 Euros per month in order to pay for accommodation
 
 You might choose whether or not to have your name listed in our website next to his picture.
 
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-387x300.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-400x300.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-400x300.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-300x225.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-300x225.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
 
 ## Electricity for an accommodation of the indigenous NGO APIWATA
 
@@ -125,11 +125,11 @@ gregor @ feigenhain.org
 # Contact
 
 ## Bank
-FEIGENHAIN - INITIATIVE \
+Feigenhain - Initiative \
 IBAN : FR76 1027 8089 9300 0205 6400 194 \
 BIC: CMCIFR2A \
 RIB : 10278 08993 00020564001 94 \
-Bank: CCM CANEBIERE, 65 LA CANEBIERE, 13001 MARSEILLE
+Bank: CCM Canebière, 65 La Canebière, 13001 Marseille, France
 
 ## Email
 contact @ feigenhain.org
