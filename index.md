@@ -34,6 +34,8 @@ In order to carry out this project, one of the founding members of the NGO Feige
 
 The structure to be built will be very simple: the centre will have a classroom, a small library, a computer with access to satellite internet, a kitchen, bathroom and a small accommodation for students, visitors and volunteer teachers. It will also be necessary to dig a small well.
 
+[![Student Centre](/assets/img/campaigns/pedrabranca2-300x182.png)](/assets/img/campaigns/pedrabranca2.png)
+
 The estimated cost for the construction of the Support Centre and purchase of the equipment is 12 thousand euros. We are transparent concerning our bookkeeping and regular reports will be made available for consultation online.
 
 Contributors to this project who have some knowledge to offer to students in the region can stay at the Support Centre, give some of their time to students and then take the opportunity to get to know the region.
@@ -42,8 +44,6 @@ Please contribute to make this project come true.
 
 <br />
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=1.098N%2C52.403W&amp;t=m&amp;z=5&amp;output=embed&amp;iwloc=near" title="%3$s" aria-label="%3$s"></iframe>
-[![Student Centre](/assets/img/campaigns/pedrabranca-300x294.jpeg)](/assets/img/campaigns/pedrabranca.jpeg)
-[![Student Centre](/assets/img/campaigns/pedrabranca2-300x182.png)](/assets/img/campaigns/pedrabranca2.png)
 
 ### Construction Update December 2020
 
@@ -71,9 +71,9 @@ He needs the equivalent of 300 Euros per month in order to pay for accommodation
 
 You might choose whether or not to have your name listed in our website next to his picture.
 
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-387x400.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-300x225.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-255x300.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-387x300.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-400x300.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-400x300.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
 
 ## Electricity for an accommodation of the indigenous NGO APIWATA
 
@@ -84,7 +84,7 @@ Feigenhain supports the NGO APIWATA, one of the three associations created by th
 ## Help Manoel
 Manoel lives in the suburbs of Macapá, in the state of Amapá, one of the poorest regions of Brazil. His whole family depends on him. In poor health, for over two years Manoel has been unable to work with his right arm which was seriously injured by a dog bite. Manoel dreams of going back to work in order to help his family, but he has no resources for a surgery, which costs about 700 Euros. Our campaign will continue until we have enough money to pay for it. You can help us achieve this dream. By contributing to this specific campaign, your entire donation will be used for Manoel’s surgery. No sum will be used to cover other expenses or operating costs of the Association, which are covered by general donations, and members’ private resources.
 
-[![Help Manoel](/assets/img/campaigns/manoel-portrait-2-300x300.jpg)](/assets/img/campaigns/manoel-portrait-2.jpg)
+[![Help Manoel](/assets/img/campaigns/manoel-300x300.jpg)](/assets/img/campaigns/manoel.jpg)
 
 ## Dental care for a young Amerindian in Brazil
 Feigenhain raised the necessary funds for the complete dental treatment of a young Wayãpi Amerindian in Brazil. By contributing to a specific campaign, your entire donation will go to that campaign. No sum will be used to cover other expenses or operating costs of the Association, which are coverd by general donations, and members’ private resources.
@@ -112,15 +112,16 @@ Our aims are:
 
 Founding member \
 Master of Research in anthropology and Bachelor of Law \
-cassio <at> feigenhain.org
+cassio @ feigenhain.org
 
 ## Gregor Koenig
 
 [![Gregor Koenig](/assets/img/gregor-283x300.jpg)](/assets/img/gregor.jpg)
 
 Founding member \
-PhD in biomedical engineering and MSc of applied computer science.
-gregor <at> feigenhain.org 
+PhD in biomedical engineering and MSc of applied computer science \
+gregor @ feigenhain.org 
+
 # Contact
 
 ## Bank
