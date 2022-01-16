@@ -9,7 +9,7 @@ hide_image: false
 hide_description: true
 ---
 * this unordered seed list will be replaced by the toc 
-{:toc .large-only}
+{:toc}
 
 # Helfen Sie der Feigenhain Initiative
 Wir freuen uns, wenn Sie unsere Aktivitäten mit einer Spende unterstützen. Sie können uns einmalig helfen, uns aber auch regelmäßig unterstützen. Der Paypal Dialog unterstützt die entsprechende Option.
