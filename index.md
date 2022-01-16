@@ -81,6 +81,8 @@ You might choose whether or not to have your name listed in our website next to 
 
 Feigenhain supports the NGO APIWATA, one of the three associations created by the Wayãpi indigenous people. Today, APIWATA acts mainly in logistical support for health and education. Feigenhain’s support to APIWATA is through the payment of electricity bills relating to the Wajãpi accommodation in the city of Macapá, which is used by them for health treatment reasons or to fulfil administrative obligations. The annual cost of the energy consumption of this accommodation is around 220 Euros. You can contribute with any amount to support this initiative.
 
+[Back to top](#)
+
 # Successfully concluded Campaigns
 
 ## Help Manoel
@@ -92,6 +94,8 @@ Manoel lives in the suburbs of Macapá, in the state of Amapá, one of the poore
 Feigenhain raised the necessary funds for the complete dental treatment of a young Wayãpi Amerindian in Brazil. By contributing to a specific campaign, your entire donation will go to that campaign. No sum will be used to cover other expenses or operating costs of the Association, which are coverd by general donations, and members’ private resources.
 
 [![Dental care for a young Amerindian](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
+
+[Back to top](#)
 
 # About us
 Feigenhain is a non-governmental non-profit organisation registered in France, founded on 12th September 2018 under the registration number W133028431.
@@ -105,6 +109,8 @@ Our aims are:
 - publication and sale of books, handcrafts and online advertising space, with the aim of financing our activities.
 - crowdfunding campaigns to finance our aid and humanitarian cooperation projects and the protection of the environment.
 - any activity that may be directly or indirectly related to the development of our organisation.
+
+[Back to top](#)
 
 # Team
 
@@ -123,6 +129,8 @@ cassio @ feigenhain.org
 Founding member \
 PhD in biomedical engineering and MSc of applied computer science \
 gregor @ feigenhain.org 
+
+[Back to top](#)
 
 # Contact
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 name: fr
-title: Bienvenue to the Feigenhain Initiative
+title: Bienvenue chez Feigenhain
 cover: true
 no_link_title: false 
 no_excerpt: false 
@@ -15,118 +15,114 @@ hide_description: true
 - [Team](#team)
 - [Contact](#contact)
 
-# Support the Feigenhain Initiative
-You can help to fund our activities by donating once, or in a recurring way. \
-Choose the corresponding option in the Paypal dialogue box.
+# Aidez Feigenhain
 
-- [Donate by bank transfer](#contact)
-- [Donate by card or Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LA3VKUPP25K82&source=url&lc=en_US)
+Vous pouvez aider à financer nos projets en faisant un don.
+Vous pouvez nous aider avec un paiement, ou alors avec un paiement récurrent, en choisissant cette option via PayPal.
 
-# Ongoing Campaigns
+NB. Si vous avez votre domicile fiscal en France, le reçu qui vous sera délivré vous ouvra droit à [réduction d’impôt](https://www.impots.gouv.fr/portail/particulier/questions/jai-fait-des-dons-une-association-que-puis-je-deduire).
 
-## Student Centre near the Wajãpi Indigenous Land in Brazil
+- [Faire un don par virement bancaire](#contact)
+- [Faire un don par carte ou Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LA3VKUPP25K82&source=url&lc=fr_FR)
 
-School education in and around the Wajãpi Indigenous Land in Brazil is offered in a modular fashion, where the students’ presence in classrooms is limited to four-weeks modules in each academic year. Students’ contact with the school itself is therefore restricted to the periods in which the teaching modules take place. Throughout the rest of the year, they are completely alone in their learning process. The positive aspect of modular teaching is that it interferes less in the traditional calendar that governs planting, harvesting, hunting and fishing activities. However, students remain long periods without being able to count on anyone to help them in their studies. Young Wajãpi students, as well as the students from the adjacent rural communities are left alone trying to cope with great difficulties in learning and in completing their various schoolwork. This problem is even more evident in the phases of final essays and dissertations, with the great distances existing between the student’s usual residence and that of the supervising teacher.
+# Campagnes actuelles
 
-Through the construction of a student support centre we hope to be able to reduce this distance, accompanying those students with revision, homework, notions of computer use and help with completion of assignments. The Support Centre will also serve as a space for exchanging good practices between indigenous and non-indigenous students in the field of sustainable family farming. The motivation for this project is purely philanthropic, without any political or religious ties. The centre will be open to all students of the surrounding communities, regardless of their ethnic origin or belief.
+## Centre d'appui aux élèves - Aire indigène Wayãpi
 
-In order to carry out this project, one of the founding members of the NGO Feigenhain, with long teaching experience in Wajãpi schools both in French Guiana and in Brazil, has identified a plot of three hectares of land in Tucano (1.098N, 52.403W) in the state of Amapá in Brazil, which is a rural settlement community adjacent to the Wajãpi Indigenous Land. The strategic choice of this location will allow the support centre to be easily reached by students not only from the Wajãpi Indigenous Land but also from all its surrounding communities. The bus that makes the Macapá-Tucano line makes it easy for volunteer teachers to reach the Support Centre.
+L’enseignement scolaire dans et autour de l’Aire indigène Wayãpi (Terra Indígena Wajãpi) au Brésil est proposé sous forme de module. La présence des élèves dans les cours est limitée à des unités d’enseignement de quatre semaines par année scolaire. Le contact des élèves avec l’école elle-même est donc limité aux périodes durant lesquelles ces modules d’enseignement ont lieu. Tout le reste de l’année, les élèves sont seuls dans leur processus d’apprentissage. L’aspect positif de cet enseignement est qu’il interfère peu avec le calendrier traditionnel qui régit les activités de plantation, de récolte, de chasse et de pêche. Cependant, les étudiants traversent de longues périodes sans pouvoir compter sur personne pour les aider dans leurs études. Les jeunes étudiants Wayãpi ainsi que les étudiants des communautés rurales adjacentes sont livrés à eux-mêmes et font face à de grandes difficultés d’apprentissage. Par exemple, terminer leurs devoirs scolaires représente un vrai défi. Ce problème est encore plus évident dans les phases d’examens finals ou d’écriture de mémoires, en partie à cause des grandes distances existant entre la résidence de l’étudiant et celle du professeur superviseur.
 
-The structure to be built will be very simple: the centre will have a classroom, a small library, a computer with access to satellite internet, a kitchen, bathroom and a small accommodation for students, visitors and volunteer teachers. It will also be necessary to dig a small well.
+Grâce à la construction d’un centre de soutien aux étudiants, nous espérons pouvoir réduire cette distance en accompagnant ces étudiants lors des révisions et des différents devoirs tout en leur fournissant des notions informatiques. Le centre d’appui servira également d’espace d’échange de bonnes pratiques entre étudiants autochtones et étudiants non autochtones dans le domaine de l’agriculture familiale durable. La motivation de ce projet est purement philanthropique, sans aucun lien politique ou religieux. Le centre sera ouvert à tous les étudiants des communautés environnantes quelle que soit leur origine ethnique ou leur croyance.
+
+Pour mener à bien ce projet, l’un des membres fondateurs de l’ONG Feigenhain, avec une longue expérience de l’enseignement dans les écoles Wayãpi en Guyane et au Brésil, a identifié une parcelle de trois hectares de terrain à Tucano (1.098N, 52.403W ) dans l’État d’Amapá au Brésil, qui est une communauté rurale adjacente à l’Aire indigène Wayãpi.  Le choix stratégique de cet emplacement permettra au centre de soutien d’être facilement accessible par les étudiants non seulement de l’Aire indigène Wayãpi mais aussi de toutes les communautés environnantes. Le bus qui relie la ligne Macapá-Tucano permet aux enseignants bénévoles de rejoindre facilement le centre d’assistance.
+
+La structure à construire sera très simple : le centre disposera d’une salle de classe, d’une petite bibliothèque, d’un ordinateur avec accès à Internet par satellite, d’une cuisine, d’une salle de bains et d’un petit logement pour étudiants, visiteurs et enseignants bénévoles. Il faudra également creuser un petit puits.
 
 [![Student Centre](/assets/img/campaigns/pedrabranca2-300x182.png)](/assets/img/campaigns/pedrabranca2.png)
 
-The estimated cost for the construction of the Support Centre and purchase of the equipment is 12 thousand euros. We are transparent concerning our bookkeeping and regular reports will be made available for consultation online.
+Le coût estimé pour la construction du centre d’assistance et l’achat de l’équipement est de 12 mille euros. On est transparent concernant nos dépenses et des rapports réguliers seront disponibles pour consultation en ligne.
 
-Contributors to this project who have some knowledge to offer to students in the region can stay at the Support Centre, give some of their time to students and then take the opportunity to get to know the region.
+Les contributeurs à ce projet qui ont des connaissances à offrir aux étudiants de la région peuvent séjourner au Centre de soutien, donner un peu de leur temps aux étudiants et profiter de l’occasion pour faire connaissance avec la région.
 
-Please contribute to make this project come true.
+Merci de contribuer à faire de ce projet une réalité.
 
 <br />
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=1.098N%2C52.403W&amp;t=m&amp;z=5&amp;output=embed&amp;iwloc=near" title="%3$s" aria-label="%3$s"></iframe>
 
-### Construction Update December 2020
-
-The construction works in Amapá are ongoing. Your donations help us to advance the works of the educational center. Please continue to support us in our effort!
+### Decembre 2020
 
 [![Student Centre](/assets/img/campaigns/pedrabranca3-300x225.jpg)](/assets/img/campaigns/pedrabranca3.jpg)
 [![Student Centre](/assets/img/campaigns/pedrabranca4-300x225.jpg)](/assets/img/campaigns/pedrabranca4.jpg)
 
-## Long-term individual support
+## Soutien à long terme
 
-Feigenhain local staff identifies individual Brazilian Amerindians who are struggling with life and puts them in contact with sponsors who are willing to lend them a hand. We focus particularly on students and on elderly people.
+L’équipe locale de l’Association Feigenhain identifie des amérindiens brésiliens en difficulté et les met en contact avec des sponsors prêts à leur donner un coup de main. Nous nous concentrons particulièrement sur les étudiants et les personnes âgées.
 
-Very few Amerindians students manage to make it to university, and the rare exceptions who do, face great difficulties in financing their studies. Your sponsorship helps them pay for their accommodation in town, for food and books.
+Très peu d’étudiants amérindiens réussissent à aller à l’université et les rares exceptions qui le font rencontrent de grandes difficultés pour financer leurs études. Votre parrainage les aide à payer leur hébergement en ville, leur nourriture et leurs livres.
 
-Elderly indigenous people struggle when they suffer from new illnesses that traditional medicine is unable to deal with. Often penniless, they perish facing long queues to have access to public health care in Brazil. Your sponsorship helps elders to pay for medical exams, medication and to purchase food when necessary.
-
-We provide you with regular reports on how the person you are helping is doing, and you may also choose to be in direct contact with them.
-
-The way it works is simple: all you need to do is to set up a standing order for a monthly bank transfer to Feigenhain and we will look after the rest. You might choose whether or not to have your name listed in our website next to the person you are sponsoring. We follow up very closely to make sure your contribution is being spent for the right purpose, and we send you regular reports on that person.
+Les personnes âgées amérindiennes éprouvent de grandes difficultés lorsqu’elles souffrent de nouvelles maladies que la médecine traditionnelle est incapable de traiter. Souvent sans les moyens financiers, elles sont mises en difficulté devant de longues files d’attente pour avoir accès aux soins de santé publique au Brésil. Votre parrainage aide ces personnes âgées à payer les examens médicaux, les médicaments et à acheter de la nourriture en cas de besoin.
 
 ### Kuhupi Waurá 
-Kuhupi Waurá is a young Amerindian from the Aldeia Pyulaga located in the Parque Indígena do Xingú in Brazil. Both his parents live in the Amerindian village, but Kuhupi has a dream which is to become a nurse. His plans are to go back to Xingú after he graduates.
-
+Kuhupi Waurá est un jeune amérindien du village Pyulaga situé dans le Parque Indígena do Xingú au Brésil. Ses deux parents vivent dans le village amérindien, mais Kuhupi rêve de devenir infirmier. Ses plans sont de retourner au parc du Xingú après avoir obtenu son diplôme.
 
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
 
-He needs the equivalent of 300 Euros per month in order to pay for accommodation and food in Cárceres (Mato Grosso do Sul, Brazil), where his university is. You can help sponsor Kuhupi. We will keep you informed on how he has been doing at Uni. You can also be in direct contact with him. All you need to do is to set up a standing order for a monthly bank transfer in Euros to Feigenhain and we will look after the rest.
+Il a besoin d’environ 300 euros par mois pour payer son logement et sa nourriture à Cárceres (Mato Grosso do Sul, Brésil), où se trouve son université. Vous pouvez aider à parrainer Kuhupi. Nous vous tiendrons au courant de ses progrès à l’université. Vous pouvez également être en contact direct avec lui. Tout ce que vous avez à faire est de créer un ordre de virement mensuel en euros à Feigenhain et nous nous occuperons du reste.
 
-You might choose whether or not to have your name listed in our website next to his picture.
+Vous pouvez choisir d’avoir ou non votre nom sur notre site Web à côté de sa photo.
 
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-300x225.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-300x225.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
 
 ## Electricity for an accommodation of the indigenous NGO APIWATA
 
-Feigenhain supports the NGO APIWATA, one of the three associations created by the Wayãpi indigenous people. Today, APIWATA acts mainly in logistical support for health and education. Feigenhain’s support to APIWATA is through the payment of electricity bills relating to the Wajãpi accommodation in the city of Macapá, which is used by them for health treatment reasons or to fulfil administrative obligations. The annual cost of the energy consumption of this accommodation is around 220 Euros. You can contribute with any amount to support this initiative.
+L’association Feigenhain soutient l’association des peuples autochtones Wajãpi Triângulo do Amapari (APIWATA), l’une des trois associations créées par les amérindiens Wajãpi du Amapá, Brésil. Aujourd’hui, l’APIWATA agit principalement dans le soutien logistique à la santé et à l’éducation. L’association Feigenhain apporte son soutien à APIWATA par le paiement de factures d’électricité provenant du logement des Wajãpi situé dans la ville de Macapá, qui est utilisé par les amérindiens Wajãpi pour des raisons de santé ou pour remplir leurs obligations administratives. Le coût annuel de la consommation d’énergie de ce logement est d’environ 220 Euros. Vous pouvez contribuer avec n’importe quel montant pour soutenir cette initiative.
 
 # Successfully concluded Campaigns
 
 ## Help Manoel
-Manoel lives in the suburbs of Macapá, in the state of Amapá, one of the poorest regions of Brazil. His whole family depends on him. In poor health, for over two years Manoel has been unable to work with his right arm which was seriously injured by a dog bite. Manoel dreams of going back to work in order to help his family, but he has no resources for a surgery, which costs about 700 Euros. Our campaign will continue until we have enough money to pay for it. You can help us achieve this dream. By contributing to this specific campaign, your entire donation will be used for Manoel’s surgery. No sum will be used to cover other expenses or operating costs of the Association, which are covered by general donations, and members’ private resources.
+Manoel vit dans la banlieue de Macapá, dans l’état d’Amapá, l’une des régions les plus pauvres du Brésil. Toute sa famille dépend de lui. En mauvaise santé, depuis plus de deux ans Manoel est incapable de travailler avec son bras droit qu’a été gravement blessé par un chien. Manoel rêve de retourner au travail pour pouvoir aider sa famille, mais il ne dispose d’aucune ressource pour la chirurgie, dont le prix est d’environ 700 Euros. Notre campagne se poursuivra jusqu’à ce que nous ayons assez d’argent pour payer son opération. Vous pouvez nous aider à réaliser ce rêve. En contribuant à cette campagne spécifique, l’intégralité de votre don sera affectée à la chirurgie de Manoel. Aucune somme ne sera utilisée pour couvrir les dépenses ou les frais de fonctionnement de l’Association. Ceux-ci sont payés sur donations générales et sur ressources propres des membres fondateurs.
 
 [![Help Manoel](/assets/img/campaigns/manoel-300x300.jpg)](/assets/img/campaigns/manoel.jpg)
 
 ## Dental care for a young Amerindian in Brazil
-Feigenhain raised the necessary funds for the complete dental treatment of a young Wayãpi Amerindian in Brazil. By contributing to a specific campaign, your entire donation will go to that campaign. No sum will be used to cover other expenses or operating costs of the Association, which are coverd by general donations, and members’ private resources.
+Feigenhain a réuni les ressources nécessaires pour le traitement dentaire complet d’un jeune amérindien Wayãpi au Brésil. En contribuant à une campagne spécifique, l’intégralité de votre contribution ira à cette campagne. Aucune somme ne sera utilisée pour couvrir les dépenses ou les frais de fonctionnement de l’Association. Ceux-ci sont payés sur donations générales et sur ressources propres des membres fondateurs.
 
 [![Dental care for a young Amerindian](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
 
-# About us
-Feigenhain is a non-governmental non-profit organisation registered in France, founded on 12th September 2018 under the registration number W133028431.
-It is governed by the French Law of 1 July 1901 and the Decree of 16 August 1901 (Association loi de 1901). 
+# Qui sommes-nous
 
-Our aims are:
-- humanitarian aid and cooperation.
-- protection of the natural environment.
-- technological solutions aimed at humanitarian aid and cooperation and the protection of the environment.
-- running workshops aimed at safeguarding culture, intangible heritage, history, knowledge and know-how.
-- publication and sale of books, handcrafts and online advertising space, with the aim of financing our activities.
-- crowdfunding campaigns to finance our aid and humanitarian cooperation projects and the protection of the environment.
-- any activity that may be directly or indirectly related to the development of our organisation.
+Feigenhain est une association enregistrée en France, créée le 12 septembre 2018 sous le numéro W133028431, et régie par la loi du 1er juillet 1901 et le décret du 16 août 1901 ([Association loi de 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901)). 
 
-# Team
+Nous avons pour objet :
+- l’aide et la coopération humanitaire.
+- la protection de l’environnement naturel.
+- l’apport des solutions technologiques visant l’aide et la coopération humanitaire et la protection de l’environnement naturel.
+- la promotion et la réalisation d’ateliers ayant pour but la sauvegarde de la culture, du patrimoine immatériel, de l’histoire, du savoir et du savoir-faire.
+- la publication et la vente d’ouvrages, d’artisanat et d’espaces publicitaires en ligne, avec comme objectif de financer les activités de l’association.
+- la demande des financements participatifs ou collectifs et la collecte auprès du public pour ses projets d’aide et coopération humanitaire, pour la protection de l’environnement naturel, ainsi que pour la production des ouvrages.
+- toutes opérations pouvant se rattacher directement ou indirectement à l’objet social ou susceptibles d’en faciliter l’extension ou le développement de notre association.
+
+# Equipe
 
 ## Cássio de Figueiredo
 
 [![Cássio de Figueiredo](/assets/img/cassio-283x300.jpg)](/assets/img/cassio.jpg)
 
-Founding member \
-Master of Research in anthropology and Bachelor of Law \
+Membre fondateur \
+Titulaire d’un master 2 de recherche en anthropologie et d’une Licence en droit \
 cassio @ feigenhain.org
 
 ## Gregor Koenig
 
 [![Gregor Koenig](/assets/img/gregor-283x300.jpg)](/assets/img/gregor.jpg)
 
-Founding member \
-PhD in biomedical engineering and MSc of applied computer science \
+Membre fondateur \
+Docteur en technologie médicale et titulaire d’un master 2 en informatique appliquée \
 gregor @ feigenhain.org 
 
 # Contact
 
-## Bank
+## Coordonnées bancaires
 Feigenhain - Initiative \
 IBAN : FR76 1027 8089 9300 0205 6400 194 \
 BIC: CMCIFR2A \
@@ -136,7 +132,7 @@ Bank: CCM Canebière, 65 La Canebière, 13001 Marseille, France
 ## Email
 contact @ feigenhain.org
 
-## Address
+## Addresse postale
 Feigenhain Initiative \
 23 Rue Sainte Francoise \
 13002 Marseille \
