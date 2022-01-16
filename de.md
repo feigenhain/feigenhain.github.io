@@ -8,12 +8,8 @@ no_excerpt: false
 hide_image: false
 hide_description: true
 ---
-- [Support the Feigenhain Initiative!](#support-the-feigenhain-initiative)
-- [Ongoing Projects](#ongoing-campaigns)
-- [Successfully concluded Campaigns](#successfully-concluded-campaigns)
-- [About Us](#about-us)
-- [Team](#team)
-- [Contact](#contact)
+* this unordered seed list will be replaced by the toc 
+{:toc .large-only}
 
 # Helfen Sie der Feigenhain Initiative
 Wir freuen uns, wenn Sie unsere Aktivitäten mit einer Spende unterstützen. Sie können uns einmalig helfen, uns aber auch regelmäßig unterstützen. Der Paypal Dialog unterstützt die entsprechende Option.
@@ -85,7 +81,7 @@ APIWATA unterstützt vor allem logistisch im Gesundheits- und Bildungsbereich. D
 
 Die jährlichen Energiekosten dieser Unterkunft belaufen sich auf ungefähr 220 Euro. Sie können sich mit jedem beliebigen Betrag an dieser Kampagne beteiligen.
 
-# Successfully concluded Campaigns
+# Erfolgreich abgeschlossene Kampagnen
 
 ## Helfen Sie Manoel
 Manoel lebt in einem Vorort von Macapá im brasilianischen Bundesstaat Amapá, einer der ärmsten Regionen Brasiliens. Manoel hatte vor zwei Jahren einen Unfall und wurde von einem Hund gebissen. Die nicht behandelte Wunde hat zur Unbeweglichkeit seiner Hand geführt, was ihm jegliche Arbeit unmöglich macht. Da er der einzige Verdiener der Familie ist, betrifft die Situation nun mehrere Personen. Manoel wünscht sich sehr wieder zu arbeiten gehen zu können und damit auch wieder seiner Familie finanzieren zu können. Leider kann er sich den notwendigen chirurgischen Eingriff nicht leisten und benötigt Hilfe, die dafür benötigten 700 Euro aufzubringen.
