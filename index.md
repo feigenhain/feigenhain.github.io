@@ -82,8 +82,6 @@ You might choose whether or not to have your name listed in our website next to 
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-300x225.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-300x225.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
 
-{% include image-gallery.html folder="/assets/img/campaigns/kuhupi" %}
-
 ## Electricity for an accommodation of the indigenous NGO APIWATA
 
 Feigenhain supports the NGO APIWATA, one of the three associations created by the Wayãpi indigenous people. Today, APIWATA acts mainly in logistical support for health and education. Feigenhain’s support to APIWATA is through the payment of electricity bills relating to the Wajãpi accommodation in the city of Macapá, which is used by them for health treatment reasons or to fulfil administrative obligations. The annual cost of the energy consumption of this accommodation is around 220 Euros. You can contribute with any amount to support this initiative.
@@ -155,9 +153,9 @@ RIB : 10278 08993 00020564001 94 \
 Bank: CCM Canebière, 65 La Canebière, 13001 Marseille, France
 
 ## Email
-<contact@feigenhain.org> or \
-<feigenhain@protonmail.com> 
+<contact@feigenhain.org> or
 
+<feigenhain@protonmail.com> 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: OpenPGP.js v4.10.10
     

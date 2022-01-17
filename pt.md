@@ -8,11 +8,12 @@ no_excerpt: false
 hide_image: false
 hide_description: true
 ---
-Feigenhain é uma organização não governamental sem fins lucrativos registrada na França, criada em 12 de setembro 2018 sob o número W133028431.
-
+Feigenhain é uma organização não governamental sem fins lucrativos registrada na França, criada em 12 de setembro 2018 sob o número W133028431.\
 Nossos objetivos são:
 - ajuda e cooperação humanitária e
 - a proteção do meio ambiente.
+
+---
 
 - [Ajude a Feigenhain](#ajude-a-feigenhain)
 - [Campanhas](#campanhass)
@@ -148,22 +149,24 @@ RIB : 10278 08993 00020564001 94 \
 Bank: CCM Canebière, 65 La Canebière, 13001 Marseille, France
 
 ## Email
-<contact@feigenhain.org> or \
-<feigenhain@protonmail.com> \
-> -----BEGIN PGP PUBLIC KEY BLOCK-----
-> Version: OpenPGP.js v4.10.10
-> 
-> xjMEYeU03RYJKwYBBAHaRw8BAQdAd2wevOr+KDHLOb8lO64yDikokSFmBIMU
-> 59g8cGVwMz3NNWZlaWdlbmhhaW5AcHJvdG9ubWFpbC5jb20gPGZlaWdlbmhh
-> aW5AcHJvdG9ubWFpbC5jb20+wo8EEBYKACAFAmHlNN0GCwkHCAMCBBUICgIE
-> FgIBAAIZAQIbAwIeAQAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
-> 176BeQ8BAJ4iJqLygWTov9lazYAkz8Kb5gitUasmLqG7/6KfJJruAQDnMKU6
-> 2oIdrsylhe3vYb267rtAjtq+Q1+Mh3bSGMYmDs44BGHlNN0SCisGAQQBl1UB
-> BQEBB0CAjcwV9iZjXcappo4pZDFlkh3huuwwo731+SzFFSrWCgMBCAfCeAQY
-> FggACQUCYeU03QIbDAAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
-> 176BRSgBAOKVMfvpHHf3xkVWDvVDN4JdnQLKF9kq9CAP9gMbfzzwAPsHJ09Q
-> tSdj58d5um09Et2+Gw9uzetHgfl+sppptOYcDg==
-> =PJYv
-> -----END PGP PUBLIC KEY BLOCK-----
+<contact@feigenhain.org> or
+
+<feigenhain@protonmail.com> 
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: OpenPGP.js v4.10.10
+    
+    xjMEYeU03RYJKwYBBAHaRw8BAQdAd2wevOr+KDHLOb8lO64yDikokSFmBIMU
+    59g8cGVwMz3NNWZlaWdlbmhhaW5AcHJvdG9ubWFpbC5jb20gPGZlaWdlbmhh
+    aW5AcHJvdG9ubWFpbC5jb20+wo8EEBYKACAFAmHlNN0GCwkHCAMCBBUICgIE
+    FgIBAAIZAQIbAwIeAQAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
+    176BeQ8BAJ4iJqLygWTov9lazYAkz8Kb5gitUasmLqG7/6KfJJruAQDnMKU6
+    2oIdrsylhe3vYb267rtAjtq+Q1+Mh3bSGMYmDs44BGHlNN0SCisGAQQBl1UB
+    BQEBB0CAjcwV9iZjXcappo4pZDFlkh3huuwwo731+SzFFSrWCgMBCAfCeAQY
+    FggACQUCYeU03QIbDAAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
+    176BRSgBAOKVMfvpHHf3xkVWDvVDN4JdnQLKF9kq9CAP9gMbfzzwAPsHJ09Q
+    tSdj58d5um09Et2+Gw9uzetHgfl+sppptOYcDg==
+    =PJYv
+    -----END PGP PUBLIC KEY BLOCK-----
+
 
 [Voltar](#)

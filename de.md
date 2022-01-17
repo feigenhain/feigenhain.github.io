@@ -9,12 +9,11 @@ hide_image: false
 hide_description: true
 ---
 
-Feigenhain ist eine in Frankreich registrierte Nichtregierungsorganisation ohne Gewinnorientierung. Wir sind in Brasilien, Frankreich und Österreich vertreten und aktiv.
+Feigenhain ist eine in Frankreich registrierte Nichtregierungsorganisation ohne Gewinnorientierung. \
+Wir sind in Brasilien, Frankreich und Österreich vertreten und aktiv. \
+Unsere Organisationsziele sind humanitäre Hilfe und Kooperation sowie Umwelt- und Naturschutz.
 
-Unsere Organisationsziele sind:
-- humanitäre Hilfe und Kooperation.
-- Umwelt- und Naturschutz.
-- technische Lösungen zu finden und unterstützen, die humanitäre Hilfe, Kooperation und Umweltschutz helfen
+---
 
 - [Unterstützen Sie die Feigenhain Initiative](#unterstützen-sie-diefeigenhain-initiative)
 - [Aktuelle Kampagnen](#aktuelle-kampagnen)
@@ -161,22 +160,24 @@ RIB : 10278 08993 00020564001 94 \
 Bank: CCM Canebière, 65 La Canebière, 13001 Marseille, France
 
 ## Email
-<contact@feigenhain.org> or \
-<feigenhain@protonmail.com> \
-> -----BEGIN PGP PUBLIC KEY BLOCK-----
-> Version: OpenPGP.js v4.10.10
-> 
-> xjMEYeU03RYJKwYBBAHaRw8BAQdAd2wevOr+KDHLOb8lO64yDikokSFmBIMU
-> 59g8cGVwMz3NNWZlaWdlbmhhaW5AcHJvdG9ubWFpbC5jb20gPGZlaWdlbmhh
-> aW5AcHJvdG9ubWFpbC5jb20+wo8EEBYKACAFAmHlNN0GCwkHCAMCBBUICgIE
-> FgIBAAIZAQIbAwIeAQAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
-> 176BeQ8BAJ4iJqLygWTov9lazYAkz8Kb5gitUasmLqG7/6KfJJruAQDnMKU6
-> 2oIdrsylhe3vYb267rtAjtq+Q1+Mh3bSGMYmDs44BGHlNN0SCisGAQQBl1UB
-> BQEBB0CAjcwV9iZjXcappo4pZDFlkh3huuwwo731+SzFFSrWCgMBCAfCeAQY
-> FggACQUCYeU03QIbDAAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
-> 176BRSgBAOKVMfvpHHf3xkVWDvVDN4JdnQLKF9kq9CAP9gMbfzzwAPsHJ09Q
-> tSdj58d5um09Et2+Gw9uzetHgfl+sppptOYcDg==
-> =PJYv
-> -----END PGP PUBLIC KEY BLOCK-----
+<contact@feigenhain.org> or
+
+<feigenhain@protonmail.com> 
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: OpenPGP.js v4.10.10
+    
+    xjMEYeU03RYJKwYBBAHaRw8BAQdAd2wevOr+KDHLOb8lO64yDikokSFmBIMU
+    59g8cGVwMz3NNWZlaWdlbmhhaW5AcHJvdG9ubWFpbC5jb20gPGZlaWdlbmhh
+    aW5AcHJvdG9ubWFpbC5jb20+wo8EEBYKACAFAmHlNN0GCwkHCAMCBBUICgIE
+    FgIBAAIZAQIbAwIeAQAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
+    176BeQ8BAJ4iJqLygWTov9lazYAkz8Kb5gitUasmLqG7/6KfJJruAQDnMKU6
+    2oIdrsylhe3vYb267rtAjtq+Q1+Mh3bSGMYmDs44BGHlNN0SCisGAQQBl1UB
+    BQEBB0CAjcwV9iZjXcappo4pZDFlkh3huuwwo731+SzFFSrWCgMBCAfCeAQY
+    FggACQUCYeU03QIbDAAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
+    176BRSgBAOKVMfvpHHf3xkVWDvVDN4JdnQLKF9kq9CAP9gMbfzzwAPsHJ09Q
+    tSdj58d5um09Et2+Gw9uzetHgfl+sppptOYcDg==
+    =PJYv
+    -----END PGP PUBLIC KEY BLOCK-----
+
 
 [Back to top](#)
