@@ -8,12 +8,18 @@ no_excerpt: false
 hide_image: false
 hide_description: true
 ---
-- [Support the Feigenhain Initiative!](#support-the-feigenhain-initiative)
-- [Ongoing Projects](#ongoing-campaigns)
-- [Successfully concluded Campaigns](#successfully-concluded-campaigns)
-- [About Us](#about-us)
+Feigenhain é uma organização não governamental sem fins lucrativos registrada na França, criada em 12 de setembro 2018 sob o número W133028431.
+
+Nossos objetivos são:
+- ajuda e cooperação humanitária e
+- a proteção do meio ambiente.
+
+- [Ajude a Feigenhain](#ajude-a-feigenhain)
+- [Campanhas](#campanhass)
+- [Campanhas concluídas com sucesso](#campanhas-concluídas-com-sucesso)
+- [Quem somos](#quem-somos)
 - [Team](#team)
-- [Contact](#contact)
+- [Contato](#contato)
 
 # Ajude a Feigenhain
 Ajude a financiar nossos projetos com sua contribuição.
@@ -78,6 +84,8 @@ You might choose whether or not to have your name listed in our website next to 
 
 A Feigenhain apoia a Associação dos Povos Indígenas Wajãpi Triângulo do Amapari (APIWATA), uma das três associações criadas pelo povo indígena Wajãpi do Amapá, Brasil. Hoje, a APIWATA atua principalmente no apoio logístico à saúde e à educação escolar indígena. O apoio da Feigenhain à APIWATA é através do pagamento das contas de energia elétrica do alojamento dos Wajãpi na cidade de Macapá, que é utilizado pelos indígenas por razões de tratamento de saúde ou para cumprir obrigações administrativas.  O custo anual do consumo de energia desse alojamento é em torno de 1000 reais (aproximadamente 220 Euros). Você pode contribuir com qualquer quantia para apoiar essa iniciativa.
 
+[Voltar](#)
+
 # Campanhas concluídas com sucesso
 
 ## Ajude o Manoel
@@ -102,6 +110,8 @@ Nossos objetivos são:
 - realização de campanhas de crowdfunding ou financiamento coletivo para nossos projetos de ajuda e cooperação humanitária e de proteção do meio ambiente.
 - toda atividade que possa estar direta ou indiretamente relacionada ao desenvolvimento de nossa Associação.
 
+[Voltar](#)
+
 # Team
 
 ## Cássio de Figueiredo
@@ -110,7 +120,7 @@ Nossos objetivos são:
 
 Membro Fundador \
 Mestrado em antropologia e licenciado em Direito. Abandonou a academia para dedicar-se a ações concretas em campo com impacto social positivo. \
-cassio @ feigenhain.org
+<cassio@feigenhain.org>
 
 ## Gregor Koenig
 
@@ -118,9 +128,17 @@ cassio @ feigenhain.org
 
 Membro Fundador \
 Doutor em tecnologia médica e titular de mestrado científico em ciências da computação aplicada. \
-gregor @ feigenhain.org 
+<gregor@feigenhain.org>
+
+[Voltar](#)
 
 # Contato
+
+## Endereço
+Feigenhain Initiative \
+23 Rue Sainte Francoise \
+13002 Marseille \
+França
 
 ## Conta bancária
 Feigenhain - Initiative \
@@ -130,12 +148,22 @@ RIB : 10278 08993 00020564001 94 \
 Bank: CCM Canebière, 65 La Canebière, 13001 Marseille, France
 
 ## Email
-contact @ feigenhain.org
+<contact@feigenhain.org> or \
+<feigenhain@protonmail.com> \
+> -----BEGIN PGP PUBLIC KEY BLOCK-----
+> Version: OpenPGP.js v4.10.10
+> 
+> xjMEYeU03RYJKwYBBAHaRw8BAQdAd2wevOr+KDHLOb8lO64yDikokSFmBIMU
+> 59g8cGVwMz3NNWZlaWdlbmhhaW5AcHJvdG9ubWFpbC5jb20gPGZlaWdlbmhh
+> aW5AcHJvdG9ubWFpbC5jb20+wo8EEBYKACAFAmHlNN0GCwkHCAMCBBUICgIE
+> FgIBAAIZAQIbAwIeAQAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
+> 176BeQ8BAJ4iJqLygWTov9lazYAkz8Kb5gitUasmLqG7/6KfJJruAQDnMKU6
+> 2oIdrsylhe3vYb267rtAjtq+Q1+Mh3bSGMYmDs44BGHlNN0SCisGAQQBl1UB
+> BQEBB0CAjcwV9iZjXcappo4pZDFlkh3huuwwo731+SzFFSrWCgMBCAfCeAQY
+> FggACQUCYeU03QIbDAAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
+> 176BRSgBAOKVMfvpHHf3xkVWDvVDN4JdnQLKF9kq9CAP9gMbfzzwAPsHJ09Q
+> tSdj58d5um09Et2+Gw9uzetHgfl+sppptOYcDg==
+> =PJYv
+> -----END PGP PUBLIC KEY BLOCK-----
 
-## Endereço
-Feigenhain Initiative \
-23 Rue Sainte Francoise \
-13002 Marseille \
-França
-
-[Back to top](#)
+[Voltar](#)

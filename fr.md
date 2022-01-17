@@ -8,11 +8,18 @@ no_excerpt: false
 hide_image: false
 hide_description: true
 ---
-- [Support the Feigenhain Initiative!](#support-the-feigenhain-initiative)
-- [Ongoing Projects](#ongoing-campaigns)
-- [Successfully concluded Campaigns](#successfully-concluded-campaigns)
-- [About Us](#about-us)
-- [Team](#team)
+Feigenhain est une association enregistrée en France, créée le 12 septembre 2018 sous le numéro W133028431, et régie par la loi du 1er juillet 1901 et le décret du 16 août 1901 (Association loi de 1901). 
+
+Nous avons pour objet :
+- l’aide et la coopération humanitaire.
+- la protection de l’environnement naturel.
+- l’apport des solutions technologiques visant l’aide et la coopération humanitaire et la protection de l’environnement naturel.
+
+- [Aidez Feigenhain](#aidez-feigenhain)
+- [Campagnes actuelles](#campagnes-actuelles)
+- [Campagnes terminées](#campagnes-terminées)
+- [Qui sommes-nous](#qui-sommes-nous)
+- [Equipe](#equipe)
 - [Contact](#contact)
 
 # Aidez Feigenhain
@@ -77,17 +84,21 @@ Vous pouvez choisir d’avoir ou non votre nom sur notre site Web à côté de s
 
 L’association Feigenhain soutient l’association des peuples autochtones Wajãpi Triângulo do Amapari (APIWATA), l’une des trois associations créées par les amérindiens Wajãpi du Amapá, Brésil. Aujourd’hui, l’APIWATA agit principalement dans le soutien logistique à la santé et à l’éducation. L’association Feigenhain apporte son soutien à APIWATA par le paiement de factures d’électricité provenant du logement des Wajãpi situé dans la ville de Macapá, qui est utilisé par les amérindiens Wajãpi pour des raisons de santé ou pour remplir leurs obligations administratives. Le coût annuel de la consommation d’énergie de ce logement est d’environ 220 Euros. Vous pouvez contribuer avec n’importe quel montant pour soutenir cette initiative.
 
-# Successfully concluded Campaigns
+[Retour](#)
 
-## Help Manoel
+# Campagnes terminées
+
+## Aidez Manoel
 Manoel vit dans la banlieue de Macapá, dans l’état d’Amapá, l’une des régions les plus pauvres du Brésil. Toute sa famille dépend de lui. En mauvaise santé, depuis plus de deux ans Manoel est incapable de travailler avec son bras droit qu’a été gravement blessé par un chien. Manoel rêve de retourner au travail pour pouvoir aider sa famille, mais il ne dispose d’aucune ressource pour la chirurgie, dont le prix est d’environ 700 Euros. Notre campagne se poursuivra jusqu’à ce que nous ayons assez d’argent pour payer son opération. Vous pouvez nous aider à réaliser ce rêve. En contribuant à cette campagne spécifique, l’intégralité de votre don sera affectée à la chirurgie de Manoel. Aucune somme ne sera utilisée pour couvrir les dépenses ou les frais de fonctionnement de l’Association. Ceux-ci sont payés sur donations générales et sur ressources propres des membres fondateurs.
 
 [![Help Manoel](/assets/img/campaigns/manoel-300x300.jpg)](/assets/img/campaigns/manoel.jpg)
 
-## Dental care for a young Amerindian in Brazil
+## Traitement dentaire de jeune amérindien au Brésil
 Feigenhain a réuni les ressources nécessaires pour le traitement dentaire complet d’un jeune amérindien Wayãpi au Brésil. En contribuant à une campagne spécifique, l’intégralité de votre contribution ira à cette campagne. Aucune somme ne sera utilisée pour couvrir les dépenses ou les frais de fonctionnement de l’Association. Ceux-ci sont payés sur donations générales et sur ressources propres des membres fondateurs.
 
 [![Dental care for a young Amerindian](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
+
+[Retour](#)
 
 # Qui sommes-nous
 
@@ -102,6 +113,8 @@ Nous avons pour objet :
 - la demande des financements participatifs ou collectifs et la collecte auprès du public pour ses projets d’aide et coopération humanitaire, pour la protection de l’environnement naturel, ainsi que pour la production des ouvrages.
 - toutes opérations pouvant se rattacher directement ou indirectement à l’objet social ou susceptibles d’en faciliter l’extension ou le développement de notre association.
 
+[Retour](#)
+
 # Equipe
 
 ## Cássio de Figueiredo
@@ -110,7 +123,7 @@ Nous avons pour objet :
 
 Membre fondateur \
 Titulaire d’un master 2 de recherche en anthropologie et d’une Licence en droit \
-cassio @ feigenhain.org
+<cassio@feigenhain.org>
 
 ## Gregor Koenig
 
@@ -118,9 +131,17 @@ cassio @ feigenhain.org
 
 Membre fondateur \
 Docteur en technologie médicale et titulaire d’un master 2 en informatique appliquée \
-gregor @ feigenhain.org 
+<gregor@feigenhain.org> 
+
+[Retour](#)
 
 # Contact
+
+## Addresse postale
+Feigenhain Initiative \
+23 Rue Sainte Francoise \
+13002 Marseille \
+France
 
 ## Coordonnées bancaires
 Feigenhain - Initiative \
@@ -130,12 +151,22 @@ RIB : 10278 08993 00020564001 94 \
 Bank: CCM Canebière, 65 La Canebière, 13001 Marseille, France
 
 ## Email
-contact @ feigenhain.org
+<contact@feigenhain.org> or \
+<feigenhain@protonmail.com> \
+> -----BEGIN PGP PUBLIC KEY BLOCK-----
+> Version: OpenPGP.js v4.10.10
+> 
+> xjMEYeU03RYJKwYBBAHaRw8BAQdAd2wevOr+KDHLOb8lO64yDikokSFmBIMU
+> 59g8cGVwMz3NNWZlaWdlbmhhaW5AcHJvdG9ubWFpbC5jb20gPGZlaWdlbmhh
+> aW5AcHJvdG9ubWFpbC5jb20+wo8EEBYKACAFAmHlNN0GCwkHCAMCBBUICgIE
+> FgIBAAIZAQIbAwIeAQAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
+> 176BeQ8BAJ4iJqLygWTov9lazYAkz8Kb5gitUasmLqG7/6KfJJruAQDnMKU6
+> 2oIdrsylhe3vYb267rtAjtq+Q1+Mh3bSGMYmDs44BGHlNN0SCisGAQQBl1UB
+> BQEBB0CAjcwV9iZjXcappo4pZDFlkh3huuwwo731+SzFFSrWCgMBCAfCeAQY
+> FggACQUCYeU03QIbDAAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
+> 176BRSgBAOKVMfvpHHf3xkVWDvVDN4JdnQLKF9kq9CAP9gMbfzzwAPsHJ09Q
+> tSdj58d5um09Et2+Gw9uzetHgfl+sppptOYcDg==
+> =PJYv
+> -----END PGP PUBLIC KEY BLOCK-----
 
-## Addresse postale
-Feigenhain Initiative \
-23 Rue Sainte Francoise \
-13002 Marseille \
-France
-
-[Back to top](#)
+[Retour](#)

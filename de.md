@@ -8,13 +8,25 @@ no_excerpt: false
 hide_image: false
 hide_description: true
 ---
-* this unordered seed list will be replaced by the toc 
-{:toc}
 
-# Helfen Sie der Feigenhain Initiative
+Feigenhain ist eine in Frankreich registrierte Nichtregierungsorganisation ohne Gewinnorientierung. Wir sind in Brasilien, Frankreich und Österreich vertreten und aktiv.
+
+Unsere Organisationsziele sind:
+- humanitäre Hilfe und Kooperation.
+- Umwelt- und Naturschutz.
+- technische Lösungen zu finden und unterstützen, die humanitäre Hilfe, Kooperation und Umweltschutz helfen
+
+- [Unterstützen Sie die Feigenhain Initiative](#unterstützen-sie-diefeigenhain-initiative)
+- [Aktuelle Kampagnen](#aktuelle-kampagnen)
+- [Erfolgreich abgeschlossene Kampagnen](#erfolgreich-abgeschlossene-kampagnen)
+- [Über uns](#über-uns)
+- [Team](#team)
+- [Kontakt](#kontakt)
+
+# Unterstützen Sie die Feigenhain Initiative
 Wir freuen uns, wenn Sie unsere Aktivitäten mit einer Spende unterstützen. Sie können uns einmalig helfen, uns aber auch regelmäßig unterstützen. Der Paypal Dialog unterstützt die entsprechende Option.
 
-- [Spende mittels Überweisung](#contact)
+- [Spende mittels Überweisung](#kontakt)
 - [Spenden mit Kreditkarte oder Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LA3VKUPP25K82&source=url&lc=de_DE)
 
 # Aktuelle Kampagnen
@@ -81,6 +93,8 @@ APIWATA unterstützt vor allem logistisch im Gesundheits- und Bildungsbereich. D
 
 Die jährlichen Energiekosten dieser Unterkunft belaufen sich auf ungefähr 220 Euro. Sie können sich mit jedem beliebigen Betrag an dieser Kampagne beteiligen.
 
+[Back to top](#)
+
 # Erfolgreich abgeschlossene Kampagnen
 
 ## Helfen Sie Manoel
@@ -95,6 +109,8 @@ Wenn Sie eine bestimmte Kampagne unterstützen, wird Ihre gesamte Spende nur fü
 
 [![Dental care for a young Amerindian](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
 
+[Back to top](#)
+
 # Über uns
 Feigenhain ist eine in Frankreich registrierte Nichtregierungsorganisation ohne Gewinnorientierung. Die Gründung erfolgte am 12. September 2018 unter der Registrierungsnummer W133028431. Die rechtliche Basis ist das französische Gesetz vom 1. Juli 1901 und das Dekret vom 16. August 1901 ([Association loi de 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901)).
 
@@ -107,6 +123,8 @@ Unsere Organisationsziele sind:
 - Crowdfunding-Kampagnen um unsere humanitären Kooperationsprojekte und Umweltschutzprojekte zu unterstützen.
 - jegliche Aktivitäten die direkt oder indirekt mit der Entwicklung unserer Organisation zusammenhängen.
 
+[Back to top](#)
+
 # Team
 
 ## Cássio de Figueiredo
@@ -115,7 +133,7 @@ Unsere Organisationsziele sind:
 
 Gründungsmitglied \
 Master der angwandten Anthropologie und Bachelor of Law \
-cassio @ feigenhain.org
+<cassio@feigenhain.org>
 
 ## Gregor Koenig
 
@@ -123,9 +141,17 @@ cassio @ feigenhain.org
 
 Gründungsmitglied \
 Doktor der Medizintechnik und Diplom Ingenieur der Angewandten Informatik \
-gregor @ feigenhain.org 
+<gregor@feigenhain.org>
+
+[Back to top](#)
 
 # Kontakt
+
+## Adresse
+Feigenhain Initiative \
+23 Rue Sainte Francoise \
+13002 Marseille \
+Frankreich
 
 ## Bankverbindung
 Feigenhain - Initiative \
@@ -135,12 +161,22 @@ RIB : 10278 08993 00020564001 94 \
 Bank: CCM Canebière, 65 La Canebière, 13001 Marseille, France
 
 ## Email
-contact @ feigenhain.org
-
-## Adresse
-Feigenhain Initiative \
-23 Rue Sainte Francoise \
-13002 Marseille \
-Frankreich
+<contact@feigenhain.org> or \
+<feigenhain@protonmail.com> \
+> -----BEGIN PGP PUBLIC KEY BLOCK-----
+> Version: OpenPGP.js v4.10.10
+> 
+> xjMEYeU03RYJKwYBBAHaRw8BAQdAd2wevOr+KDHLOb8lO64yDikokSFmBIMU
+> 59g8cGVwMz3NNWZlaWdlbmhhaW5AcHJvdG9ubWFpbC5jb20gPGZlaWdlbmhh
+> aW5AcHJvdG9ubWFpbC5jb20+wo8EEBYKACAFAmHlNN0GCwkHCAMCBBUICgIE
+> FgIBAAIZAQIbAwIeAQAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
+> 176BeQ8BAJ4iJqLygWTov9lazYAkz8Kb5gitUasmLqG7/6KfJJruAQDnMKU6
+> 2oIdrsylhe3vYb267rtAjtq+Q1+Mh3bSGMYmDs44BGHlNN0SCisGAQQBl1UB
+> BQEBB0CAjcwV9iZjXcappo4pZDFlkh3huuwwo731+SzFFSrWCgMBCAfCeAQY
+> FggACQUCYeU03QIbDAAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
+> 176BRSgBAOKVMfvpHHf3xkVWDvVDN4JdnQLKF9kq9CAP9gMbfzzwAPsHJ09Q
+> tSdj58d5um09Et2+Gw9uzetHgfl+sppptOYcDg==
+> =PJYv
+> -----END PGP PUBLIC KEY BLOCK-----
 
 [Back to top](#)
