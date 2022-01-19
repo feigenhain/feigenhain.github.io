@@ -30,13 +30,13 @@ Wir freuen uns, wenn Sie unsere Aktivitäten mit einer Spende unterstützen. Sie
 
 # Aktuelle Kampagnen
 
-## Bildungszentrum - Terra Indigena Wajãpi in Brasilien
+## Bildungszentrum - Terra Indigena in Amapá, Brasilien
 
-Die Schulbildung in und um die Terra Indigena Wajãpi in Brasilien findet, anders als in Europa üblich, modular statt, wobei die Präsenz der Schüler in Klassenräumen auf vierwöchige Module pro Schuljahr begrenzt ist. Der Besuch der Schule selbst ist daher auf die Zeiträume beschränkt, in denen die Unterrichtsmodule stattfinden. Während des restlichen Jahres sind die Schüler in ihrem Lernprozess völlig allein. Ein positiver Aspekt des modularen Unterrichts ist, dass er den traditionellen Kalender, der das Pflanzen, Ernten, Jagen und Angeln regelt, weniger beeinträchtigt. Die Schüler bleiben jedoch lange Zeiträume ohne pädagogische Betreuung. Junge Wajãpi-Schüler sowie Schüler aus den angrenzenden ländlichen Gemeinden bleiben allein und haben oft großen Schwierigkeiten beim Lernen sowie beim Abschluss ihrer verschiedenen Aufgaben und Schulprojekte. Dieses Problem zeigt sich noch deutlicher in den Phasen der Abschlussarbeiten, wo die große Entfernungen zwischen dem üblichen Wohnsitz des Schülers und dem des betreuenden Lehrers deutlich werden. 
+Die Schulbildung in und um die Terra Indigena bei Pedra Branca im Bundesstaat Amapá in Brasilien findet, anders als in Europa üblich, modular statt, wobei die Präsenz der Schüler in Klassenräumen auf vierwöchige Module pro Schuljahr begrenzt ist. Der Besuch der Schule selbst ist daher auf die Zeiträume beschränkt, in denen die Unterrichtsmodule stattfinden. Während des restlichen Jahres sind die Schüler in ihrem Lernprozess völlig allein. Ein positiver Aspekt des modularen Unterrichts ist, dass er den traditionellen Kalender, der das Pflanzen, Ernten, Jagen und Angeln regelt, weniger beeinträchtigt. Die Schüler bleiben jedoch lange Zeiträume ohne pädagogische Betreuung. Junge indigene Schüler sowie Schüler aus den angrenzenden ländlichen Gemeinden bleiben allein und haben oft großen Schwierigkeiten beim Lernen sowie beim Abschluss ihrer verschiedenen Aufgaben und Schulprojekte. Dieses Problem zeigt sich noch deutlicher in den Phasen der Abschlussarbeiten, wo die große Entfernungen zwischen dem üblichen Wohnsitz des Schülers und dem des betreuenden Lehrers deutlich werden. 
 
 Durch den Bau eines Bildungszentrums hoffen wir, diesen Abstand verringern zu können, indem wir die Schüler bei Hausaufgaben, Computernutzung und sonstigen Schulprojekten begleiten. Das Unterstützungszentrum soll auch als Ort für den Austausch bewährter Verfahren zwischen indigenen und nicht-indigenen Studenten im Bereich der nachhaltigen Familienfarm dienen. Die Motivation für dieses Projekt ist rein philanthropisch, ohne politische oder religiöse Bindungen. Das Zentrum steht allen Studenten der umliegenden Gemeinden offen, unabhängig von ihrer ethnischen Herkunft oder Überzeugung. 
 
-Eines der Gründungsmitglieder unserer NGO Feigenhain, der selbst langjähriger Unterrichtserfahrung an Wajãpi-Schulen in Französisch-Guayana und in Brasilien hat, hat bereits ein passendes Grundstück von drei Hektar gefunden, es befindet sich in Tucano (1.098N, 52.403W) ) im brasilianischen Bundesstaat Amapá, einer ländlichen Siedlungsgemeinde neben dem indigenen Land Wajãpi. Durch die strategische Wahl dieses Standorts können Studenten aus dem indigenen Land Wajãpi, aber auch aus allen umliegenden Gemeinden, das Bildungszentrum problemlos erreichen. Der Bus der Linie Macapá-Tucano erleichtert es freiwilligen Lehrern, das Zentrum zu erreichen. 
+Eines der Gründungsmitglieder unserer NGO Feigenhain, der selbst langjähriger Unterrichtserfahrung an Schulen in indigenen Dörfern in Französisch-Guayana und in Brasilien hat, hat bereits ein passendes Grundstück von drei Hektar gefunden, es befindet sich in Tucano (1.098N, 52.403W) ) im brasilianischen Bundesstaat Amapá, einer ländlichen Siedlungsgemeinde neben dem indigenen Gebiet (Terra Indígena). Durch die strategische Wahl dieses Standorts können Studenten aus dem indigenen Gebiet, aber auch aus allen umliegenden Gemeinden, das Bildungszentrum problemlos erreichen. Der Bus der Linie Macapá-Tucano erleichtert es freiwilligen Lehrern, das Zentrum zu erreichen. 
 
 Das geplante Gebäude wird sehr einfach gehalten sein: Im Zentrum wird sich ein Klassenzimmer, eine kleine Bibliothek, einen Computer mit Zugang zum Satelliten-Internet, eine Küche, ein Bad und eine kleine Unterkunft für Schüler, Besucher und freiwillige Lehrer befinden. Dazu wird es auch notwendig sein, einen kleinen Brunnen zu graben. 
 
@@ -87,7 +87,7 @@ Wenn Sie wünschen können wir optional Ihren Namen auf dieser Seite neben Kuhup
 
 ## Strom für eine Unterkunft der indigenen Organisation APIWATA
 
-Feigenhain unterstützt die NGO APIWATA, eine vom indigenen Volk der Wayãpi in Brasilien gegründete Organisation.
+Feigenhain unterstützt die NGO APIWATA, eine von indigenen Personen aus Brasilien gegründete Organisation.
 APIWATA unterstützt vor allem logistisch im Gesundheits- und Bildungsbereich. Die Feigenhain Initiative unterstützt APIWATA finanziell bei der Zahlung von Stromrechnungen für eine Unterkunft in Macapá, die Hauptstadt des brasilianischen Bundesstaates Amapá. Die Unterkunft wird von indigenen Personen während medizinischen Behandlungen und während der Erledigung von Behördengängen in der Hauptstadt verwendet. 
 
 Die jährlichen Energiekosten dieser Unterkunft belaufen sich auf ungefähr 220 Euro. Sie können sich mit jedem beliebigen Betrag an dieser Kampagne beteiligen.
@@ -103,7 +103,7 @@ Bitte helfen Sie dabei, dass Manoel wieder arbeiten kann und spenden Sie für di
 [![Help Manoel](/assets/img/campaigns/manoel-300x300.jpg)](/assets/img/campaigns/manoel.jpg)
 
 ## Finanzierung einer Zahnbehandlung für einen jungen Indignen aus Brasilien
-Feigenhain wurde durch das Engagement eines unserer Mitglieder auf die Notwendigkeit einer zahnärztlichen Behandlung eines jungen Indigenen vom Stamm der Wajãpi aufmerksam und hat die notwendigen Schritte gesetzt, um die Behandlung zu finanzieren und zu organisieren.
+Feigenhain wurde durch das Engagement eines unserer Mitglieder auf die Notwendigkeit einer zahnärztlichen Behandlung eines jungen Indigenen aufmerksam und hat die notwendigen Schritte gesetzt, um die Behandlung zu finanzieren und zu organisieren.
 Wenn Sie eine bestimmte Kampagne unterstützen, wird Ihre gesamte Spende nur für diese Kampagne verwendet. In diesem Fall wird Ihre Spende nicht für sonstige operative Aufwendungen von Feigenhain verwendet, diese werden aus allgemeinen Spenden, private Mittel der Mirglieder und anderen Quellen gedeckt.
 
 [![Dental care for a young Amerindian](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
