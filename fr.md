@@ -153,10 +153,10 @@ Bank: CCM Canebière, 65 La Canebière, 13001 Marseille, France
 ## Email
 <contact@feigenhain.org> or
 
-<feigenhain@protonmail.com> \
+<feigenhain@protonmail.com>
+
     -----BEGIN PGP PUBLIC KEY BLOCK-----
-    Version: OpenPGP.js v4.10.10
-    
+    Version: OpenPGP.js v4.10.10    
     xjMEYeU03RYJKwYBBAHaRw8BAQdAd2wevOr+KDHLOb8lO64yDikokSFmBIMU
     59g8cGVwMz3NNWZlaWdlbmhhaW5AcHJvdG9ubWFpbC5jb20gPGZlaWdlbmhh
     aW5AcHJvdG9ubWFpbC5jb20+wo8EEBYKACAFAmHlNN0GCwkHCAMCBBUICgIE
