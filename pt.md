@@ -32,13 +32,13 @@ Faça uma contribuição, ou programe uma contribuição recorrente. Escolha a o
 
 # Campanhas
 
-## Centro de Apoio ao Aluno - Terra Indígena, Amapá
+## Centro de Apoio ao Aluno - Comunidade do Tucano, Amapá
 
 A educação escolar nas comunidades rurais e áreas indígenas, é oferecida na modalidade modular. Com isso, a presença dos alunos em sala de aula está limitada a quatro módulos de uma semana por ano letivo. O contato dos alunos com a escola limita-se, portanto, aos períodos em que ocorrem estes módulos de ensino. Durante o resto do ano, os alunos estão sozinhos em seu processo de aprendizagem. O aspecto positivo do ensino modular é que a modalidade pouco interfere no calendário tradicional que rege as atividades de plantio, colheita, caça e pesca. Porém, os alunos passam longos períodos sem poder contar com alguém para auxiliá-los nos estudos. Os jovens indígenas, bem como os alunos das comunidades rurais adjacentes, devem se virar por conta própria e enfrentam grandes dificuldades no aprendizado. Por exemplo, fazer a lição de casa é um verdadeiro desafio. Este problema é ainda mais evidente nas fases de exames finais ou de redação de TCCs, em parte devido às grandes distâncias entre a localidade onde se encontra o aluno e a residência do professor orientador.
 
-Graças à construção de um centro de apoio ao aluno, esperamos poder reduzir essa distância acompanhando esses alunos durante as revisões e nos vários trabalhos e deveres de casa, proporcionando-lhes também noções de informática. O centro de apoio servirá também como um espaço de intercâmbio de boas práticas entre estudantes indígenas e não indígenas no campo da agricultura familiar sustentável. A motivação para este projeto é puramente filantrópica, sem qualquer vínculo político ou religioso. O centro será aberto a todos os alunos das comunidades vizinhas, independentemente de sua etnia ou crença.
+Graças à construção de um centro de apoio ao aluno, esperamos poder reduzir essa distância acompanhando esses alunos durante as revisões e nos vários trabalhos e deveres de casa, proporcionando-lhes também noções de informática. O centro de apoio servirá também como um espaço de intercâmbio de boas práticas entre estudantes no campo da agricultura familiar sustentável. A motivação para este projeto é puramente filantrópica, sem qualquer vínculo político ou religioso. O centro será aberto a todos os alunos das comunidades vizinhas, independentemente de sua etnia ou crença.
 
-Para a realização deste projeto, um dos membros fundadores da ONG Feigenhain, com longa experiência de ensino em escolas em aldeias indígenas na Guiana Francesa e no Brasil, identificou um terreno de três hectares no arraial do Tucano (1.098 N, 52.403W), que é uma comunidade rural adjacente numa Terra Indígena no Amapá. A escolha estratégica desta localização permitirá que o centro de apoio seja facilmente acessível aos alunos não só da Terra Indígena, mas também de todas as comunidades do entorno. O ônibus que faz a linha Macapá-Tucano facilita o acesso dos professores voluntários ao centro de apoio.
+Para a realização deste projeto, um dos membros fundadores da ONG Feigenhain, com longa experiência de ensino em escolas em aldeias indígenas na Guiana Francesa e no Brasil, identificou um terreno de três hectares no arraial do Tucano (1.098 N, 52.403W), que é uma comunidade rural adjacente numa Terra Indígena no Amapá. A escolha estratégica desta localização permitirá que o centro de apoio seja facilmente acessível aos alunos de todas as comunidades do entorno. O ônibus que faz a linha Macapá-Tucano facilita o acesso dos professores voluntários ao centro de apoio.
 
 A estrutura a ser construída será muito simples: o centro terá uma sala de aula, uma pequena biblioteca, um computador com acesso à Internet via satélite, uma cozinha, um banheiro e uma pequena acomodação para estudantes, visitantes e professores voluntários. Também será necessário cavar um poço.
 
@@ -81,9 +81,9 @@ You might choose whether or not to have your name listed in our website next to 
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-300x225.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-300x225.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
 
-## Eletricidade para um alojamenta da associação indígena APIWATA
+## Apoio à associação indígena APIWATA
 
-A Feigenhain apoia a Associação dos Povos Indígenas do Triângulo do Amapari (APIWATA), uma associação criada pelo um povo indígena do Amapá, Brasil. Hoje, a APIWATA atua principalmente no apoio logístico à saúde e à educação escolar indígena. O apoio da Feigenhain à APIWATA é através do pagamento das contas de energia elétrica do alojamento dos indígenas na cidade de Macapá, que é utilizado pelos indígenas por razões de tratamento de saúde ou para cumprir obrigações administrativas.  O custo anual do consumo de energia desse alojamento é em torno de 1000 reais (aproximadamente 220 Euros). Você pode contribuir com qualquer quantia para apoiar essa iniciativa.
+A Feigenhain apoia pontualmente a Associação dos Povos Indígenas do Triângulo do Amapari (APIWATA), uma associação criada por um povo indígena do Amapá, Brasil. Hoje, a APIWATA atua principalmente no apoio logístico à saúde, compra de medicamentos, pagamento de exames e apoio à educação escolar indígena. Você pode contribuir com qualquer quantia para apoiar essa iniciativa.
 
 [Voltar](#)
 
