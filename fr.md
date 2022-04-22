@@ -68,14 +68,12 @@ Très peu d’étudiants amérindiens réussissent à aller à l’université e
 
 Les personnes âgées amérindiennes éprouvent de grandes difficultés lorsqu’elles souffrent de nouvelles maladies que la médecine traditionnelle est incapable de traiter. Souvent sans les moyens financiers, elles sont mises en difficulté devant de longues files d’attente pour avoir accès aux soins de santé publique au Brésil. Votre parrainage aide ces personnes âgées à payer les examens médicaux, les médicaments et à acheter de la nourriture en cas de besoin.
 
-### Kuhupi Waurá 
-Kuhupi Waurá est un jeune amérindien du village Pyulaga situé dans le Parque Indígena do Xingú au Brésil. Ses deux parents vivent dans le village amérindien, mais Kuhupi rêve de devenir infirmier. Ses plans sont de retourner au parc du Xingú après avoir obtenu son diplôme.
+### Soutien à un amérindien étudiant infirmier 
+L’association Feigenhain soutient un jeune un amérindien  étudiant infirmier du Parque Indígena do Xingú au Brésil. Ses deux parents vivent dans le village amérindien, mais il rêve de devenir infirmier. Ses plans sont de retourner au parc du Xingú après avoir obtenu son diplôme.
 
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
 
-Il a besoin d’environ 300 euros par mois pour payer son logement et sa nourriture à Cárceres (Mato Grosso do Sul, Brésil), où se trouve son université. Vous pouvez aider à parrainer Kuhupi. Nous vous tiendrons au courant de ses progrès à l’université. Vous pouvez également être en contact direct avec lui. Tout ce que vous avez à faire est de créer un ordre de virement mensuel en euros à Feigenhain et nous nous occuperons du reste.
-
-Vous pouvez choisir d’avoir ou non votre nom sur notre site Web à côté de sa photo.
+Il a besoin d’environ 300 euros par mois pour payer son logement et sa nourriture à Cárceres (Mato Grosso do Sul, Brésil), où se trouve son université. Vous pouvez l’aider à poursuivre ses études. Nous vous tiendrons au courant de ses progrès à l’université. Vous pouvez également être en contact direct avec lui. Tout ce que vous avez à faire est de créer un ordre de virement mensuel en euros à Feigenhain et nous nous occuperons du reste.
 
 ## Soutien à l’association APIWATA
 
