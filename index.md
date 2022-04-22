@@ -69,15 +69,12 @@ We provide you with regular reports on how the person you are helping is doing, 
 
 The way it works is simple: all you need to do is to set up a standing order for a monthly bank transfer to Feigenhain and we will look after the rest. You might choose whether or not to have your name listed in our website next to the person you are sponsoring. We follow up very closely to make sure your contribution is being spent for the right purpose, and we send you regular reports on that person.
 
-### Kuhupi Waurá 
+### Support to a Waura nursing student
 Kuhupi Waurá is a young Amerindian from the Aldeia Pyulaga located in the Parque Indígena do Xingú in Brazil. Both his parents live in the Amerindian village, but Kuhupi has a dream which is to become a nurse. His plans are to go back to Xingú after he graduates.
-
 
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
 
-He needs the equivalent of 300 Euros per month in order to pay for accommodation and food in Cárceres (Mato Grosso do Sul, Brazil), where his university is. You can help sponsor Kuhupi. We will keep you informed on how he has been doing at Uni. You can also be in direct contact with him. All you need to do is to set up a standing order for a monthly bank transfer in Euros to Feigenhain and we will look after the rest.
-
-You might choose whether or not to have your name listed in our website next to his picture.
+He needs the equivalent of 300 Euros per month in order to pay for accommodation and food in Cárceres (Mato Grosso do Sul, Brazil), where his university is. You can help sponsor him. We will keep you informed on how he has been doing at Uni. You can also be in direct contact with him. All you need to do is to set up a standing order for a monthly bank transfer in Euros to Feigenhain and we will look after the rest.
 
 ## Support for the indigenous NGO APIWATA
 
