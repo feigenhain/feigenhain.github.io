@@ -77,9 +77,6 @@ Il a besoin d’environ 300 euros par mois pour payer son logement et sa nourrit
 
 Vous pouvez choisir d’avoir ou non votre nom sur notre site Web à côté de sa photo.
 
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-300x225.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-300x225.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
-
 ## Soutien à l’association APIWATA
 
 L’association Feigenhain soutient ponctuellement l’association des peuples autochtones du Triângulo do Amapari (APIWATA), l’une des trois associations créées par les amérindiens du Amapá, Brésil. Aujourd’hui, l’APIWATA agit principalement dans le soutien logistique à la santé et à l’éducation ainsi que l’achat des médicaments. Vous pouvez contribuer avec n’importe quel montant pour soutenir cette initiative.
