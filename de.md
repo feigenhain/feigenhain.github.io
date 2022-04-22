@@ -30,7 +30,7 @@ Wir freuen uns, wenn Sie unsere Aktivitäten mit einer Spende unterstützen. Sie
 
 # Aktuelle Kampagnen
 
-## Bildungszentrum - Terra Indigena in Amapá, Brasilien
+## Bildungszentrum - Comunidade do Tucano in Amapá, Brasilien
 
 Die Schulbildung in und um die Terra Indigena bei Pedra Branca im Bundesstaat Amapá in Brasilien findet, anders als in Europa üblich, modular statt, wobei die Präsenz der Schüler in Klassenräumen auf vierwöchige Module pro Schuljahr begrenzt ist. Der Besuch der Schule selbst ist daher auf die Zeiträume beschränkt, in denen die Unterrichtsmodule stattfinden. Während des restlichen Jahres sind die Schüler in ihrem Lernprozess völlig allein. Ein positiver Aspekt des modularen Unterrichts ist, dass er den traditionellen Kalender, der das Pflanzen, Ernten, Jagen und Angeln regelt, weniger beeinträchtigt. Die Schüler bleiben jedoch lange Zeiträume ohne pädagogische Betreuung. Junge indigene Schüler sowie Schüler aus den angrenzenden ländlichen Gemeinden bleiben allein und haben oft großen Schwierigkeiten beim Lernen sowie beim Abschluss ihrer verschiedenen Aufgaben und Schulprojekte. Dieses Problem zeigt sich noch deutlicher in den Phasen der Abschlussarbeiten, wo die große Entfernungen zwischen dem üblichen Wohnsitz des Schülers und dem des betreuenden Lehrers deutlich werden. 
 
@@ -70,9 +70,9 @@ Wir informieren Unterstützer regelmässig und - wenn gewünscht - können wir S
 
 Wir organisieren die Hilfe unbürokratisch und direkt. Sie richten einen Dauerauftrag auf das Konto von Feigenhain ein und wir kümmern uns um die direkte Weiterreichung der Finanzierung. Wenn gewünscht können Sie namentlich als Unterstützer auf unserer Homepage aufgeführt werden. Wir kontrollieren detailliert und genau, damit Ihre Spende auch wirklich für den richtigen Zweck eingesetzt wird.
 
-### Kuhupi Waurá
+### Waurá
 
-Kuhupi Waurá ist ein junger Indigener aus dem Dorf Pyulaga im Parque Indígena do Xingú in Brasilien. Seine Eltern leben im traditionellen Dorf, aber Kuhupis Traum ist es Krankenpfleger zu werden. Nach seinem Abschluss möchter er wieder in der traditionellen Dorfgemeinschaft im Xingú leben.
+Waurá ist ein junger Indigener aus dem Dorf Pyulaga im Parque Indígena do Xingú in Brasilien. Seine Eltern leben im traditionellen Dorf, aber Waurás Traum ist es Krankenpfleger zu werden. Nach seinem Abschluss möchter er wieder in der traditionellen Dorfgemeinschaft im Xingú leben.
 
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
 
@@ -81,9 +81,6 @@ Um seine Lebenskosten zu bestreiten benötigt Kuhupi umgerechnet 300 Euro pro Mo
 Wenn Sie sich entschliessen, Kuhupi zu unterstützen, halten wir sie über seine Fortschritte am laufenden und wenn gewünscht, können Sie auch direkt mit ihm in Kontakt treten. Wir würden uns freuen, wenn Sie Kuhupi mit einem Dauerauftrag auf unser Vereinskonto finanziell unterstützen würden, wir kümmern uns um alles weitere.
 
 Wenn Sie wünschen können wir optional Ihren Namen auf dieser Seite neben Kuhupis Photo veröffentlichen.
-
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-300x225.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-300x225.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
 
 ## Strom für eine Unterkunft der indigenen Organisation APIWATA
 
