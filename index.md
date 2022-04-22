@@ -82,9 +82,9 @@ You might choose whether or not to have your name listed in our website next to 
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-300x225.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-300x225.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
 
-## Electricity for an accommodation of the indigenous NGO APIWATA
+## Support for the indigenous NGO APIWATA
 
-Feigenhain supports the NGO APIWATA, an association created by an indigenous people in Brazil. Today, APIWATA acts mainly in logistical support for health and education. Feigenhain’s support to APIWATA is through the payment of electricity bills relating to the accommodation for indigenous persons in the city of Macapá, which is used by them for health treatment reasons or to fulfil administrative obligations. The annual cost of the energy consumption of this accommodation is around 220 Euros. You can contribute with any amount to support this initiative.
+Feigenhain supports the NGO APIWATA, an association created by an indigenous people in Brazil. Today, APIWATA acts mainly in logistical support for health and education, as well as the purchase of medication. You can contribute with any amount to support this initiative.
 
 [Back to top](#)
 
