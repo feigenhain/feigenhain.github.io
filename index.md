@@ -79,9 +79,6 @@ He needs the equivalent of 300 Euros per month in order to pay for accommodation
 
 You might choose whether or not to have your name listed in our website next to his picture.
 
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi3-300x225.jpeg)](/assets/img/campaigns/kuhupi3.jpeg)
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi2-300x225.jpeg)](/assets/img/campaigns/kuhupi2.jpeg)
-
 ## Support for the indigenous NGO APIWATA
 
 Feigenhain supports the NGO APIWATA, an association created by an indigenous people in Brazil. Today, APIWATA acts mainly in logistical support for health and education, as well as the purchase of medication. You can contribute with any amount to support this initiative.
