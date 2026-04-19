@@ -66,18 +66,10 @@ Feigenhain a réuni les ressources nécessaires pour le traitement dentaire comp
 
 # Campagnes terminées
 
-## Centre d'appui aux élèves — Communauté de Tucano, Amapá
+- **Centre d'appui aux élèves — Tucano, Amapá** — Feigenhain a cofinancé la construction d'un centre éducatif pour les étudiant·e·s autochtones en Amapá. Le centre est construit et en activité.
+- **Soutien à l'association APIWATA** — Soutien ponctuel à une ONG autochtone d'Amapá pour ses activités de santé et d'éducation.
 
-Feigenhain a contribué au financement de la construction d'un centre d'appui éducatif pour les étudiant·e·s autochtones et ruraux de la région de Tucano, dans l'État d'Amapá au Brésil. Le centre, situé sur un terrain de trois hectares à Tucano (1.098N, 52.403W), dispose d'une salle de classe, d'une petite bibliothèque, d'un accès à Internet par satellite, d'une cuisine et d'un logement pour les enseignant·e·s bénévoles et les étudiant·e·s.
-
-[![Student Centre](/assets/img/campaigns/pedrabranca2-300x182.png)](/assets/img/campaigns/pedrabranca2.png)
-[![Student Centre](/assets/img/campaigns/pedrabranca3-300x225.jpg)](/assets/img/campaigns/pedrabranca3.jpg)
-
-Le centre est désormais construit et en activité. Merci à tous nos donateurs et donatrices pour avoir rendu ce projet possible.
-
-## Soutien à l'association APIWATA
-
-Feigenhain a apporté un soutien ponctuel à l'association des peuples autochtones du Triângulo do Amapari (APIWATA), qui agit principalement dans le soutien logistique à la santé et à l'éducation des communautés indigènes d'Amapá au Brésil. Cette campagne est à présent clôturée.
+[Voir le détail des campagnes terminées](/fr/archive/)
 
 [Retour](#)
 
