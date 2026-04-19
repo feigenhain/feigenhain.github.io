@@ -10,8 +10,8 @@ hide_description: true
 ---
 Feigenhain est une association enregistrée en France, créée le 12 septembre 2018 sous le numéro W133028431, et régie par la loi du 1er juillet 1901 et le décret du 16 août 1901 (Association loi de 1901).  \
 Nous avons pour objet :
-- l’aide et la coopération humanitaire.
-- la protection de l’environnement naturel.
+- l'aide et la coopération humanitaire.
+- la protection de l'environnement naturel.
 
 ---
 
@@ -19,79 +19,65 @@ Nous avons pour objet :
 - [Campagnes actuelles](#campagnes-actuelles)
 - [Campagnes terminées](#campagnes-terminées)
 - [Qui sommes-nous](#qui-sommes-nous)
-- [Equipe](#equipe)
+- [Équipe](#équipe)
 - [Contact](#contact)
 
 # Aidez Feigenhain
 
 Vous pouvez aider à financer nos projets en faisant un don.
-Vous pouvez nous aider avec un paiement, ou alors avec un paiement récurrent, en choisissant cette option via PayPal.
+Vous pouvez nous aider par un paiement unique ou par un paiement récurrent, en choisissant cette option via PayPal.
 
-NB. Si vous avez votre domicile fiscal en France, le reçu qui vous sera délivré vous ouvra droit à [réduction d’impôt](https://www.impots.gouv.fr/portail/particulier/questions/jai-fait-des-dons-une-association-que-puis-je-deduire).
+NB. Si vous avez votre domicile fiscal en France, le reçu qui vous sera délivré vous ouvrira droit à [réduction d'impôt](https://www.impots.gouv.fr/portail/particulier/questions/jai-fait-des-dons-une-association-que-puis-je-deduire).
 
 - [Faire un don par virement bancaire](#contact)
 - [Faire un don par carte ou Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LA3VKUPP25K82&source=url&lc=fr_FR)
 
 # Campagnes actuelles
 
-## Centre d'appui aux élèves - Comunidade do Tucano, Brésil
+## Bourse universitaire — Kuhupi Waurá
 
-L’enseignement scolaire dans les zones rurales et aires indigènes dans l'état de Amapá au Brésil est proposé sous forme de modules. La présence des élèves dans les cours est limitée à des unités d’enseignement de quatre semaines par année scolaire. Le contact des élèves avec l’école elle-même est donc limité aux périodes durant lesquelles ces modules d’enseignement ont lieu. Tout le reste de l’année, les élèves sont seuls dans leur processus d’apprentissage. L’aspect positif de cet enseignement est qu’il interfère peu avec le calendrier traditionnel qui régit les activités de plantation, de récolte, de chasse et de pêche. Cependant, les étudiants traversent de longues périodes sans pouvoir compter sur personne pour les aider dans leurs études. Les jeunes étudiants indigènes ainsi que les étudiants des communautés rurales adjacentes sont livrés à eux-mêmes et font face à de grandes difficultés d’apprentissage. Par exemple, terminer leurs devoirs scolaires représente un vrai défi. Ce problème est encore plus évident dans les phases d’examens finals ou d’écriture de mémoires, en partie à cause des grandes distances existant entre la résidence de l’étudiant et celle du professeur superviseur.
-
-Grâce à la construction d’un centre de soutien aux étudiants, nous espérons pouvoir réduire cette distance en accompagnant ces étudiants lors des révisions et des différents devoirs tout en leur fournissant des notions informatiques. Le centre d’appui servira également d’espace d’échange de bonnes pratiques entre étudiants autochtones et étudiants non autochtones dans le domaine de l’agriculture familiale durable. La motivation de ce projet est purement philanthropique, sans aucun lien politique ou religieux. Le centre sera ouvert à tous les étudiants des communautés environnantes quelle que soit leur origine ethnique ou leur croyance.
-
-Pour mener à bien ce projet, l’un des membres fondateurs de l’ONG Feigenhain, avec une longue expérience de l’enseignement dans des écoles d'un village amerindien en Guyane et au Brésil, a identifié une parcelle de trois hectares de terrain à Tucano (1.098N, 52.403W ) dans l’État d’Amapá au Brésil, qui est une communauté rurale adjacente à l’aire indigène à Amapá.  Le choix stratégique de cet emplacement permettra au centre de soutien d’être facilement accessible par les étudiants non seulement de l’aire indigène mais aussi de toutes les communautés environnantes. Le bus qui relie la ligne Macapá-Tucano permet aux enseignants bénévoles de rejoindre facilement le centre d’assistance.
-
-La structure à construire sera très simple : le centre disposera d’une salle de classe, d’une petite bibliothèque, d’un ordinateur avec accès à Internet par satellite, d’une cuisine, d’une salle de bains et d’un petit logement pour étudiants, visiteurs et enseignants bénévoles. Il faudra également creuser un petit puits.
-
-[![Student Centre](/assets/img/campaigns/pedrabranca2-300x182.png)](/assets/img/campaigns/pedrabranca2.png)
-
-Le coût estimé pour la construction du centre d’assistance et l’achat de l’équipement est de 12 mille euros. On est transparent concernant nos dépenses et des rapports réguliers seront disponibles pour consultation en ligne.
-
-Les contributeurs à ce projet qui ont des connaissances à offrir aux étudiants de la région peuvent séjourner au Centre de soutien, donner un peu de leur temps aux étudiants et profiter de l’occasion pour faire connaissance avec la région.
-
-Merci de contribuer à faire de ce projet une réalité.
-
-<br />
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=1.098N%2C52.403W&amp;t=m&amp;z=5&amp;output=embed&amp;iwloc=near" title="%3$s" aria-label="%3$s"></iframe>
-
-### Decembre 2020
-
-[![Student Centre](/assets/img/campaigns/pedrabranca3-300x225.jpg)](/assets/img/campaigns/pedrabranca3.jpg)
-[![Student Centre](/assets/img/campaigns/pedrabranca4-300x225.jpg)](/assets/img/campaigns/pedrabranca4.jpg)
-
-## Soutien à long terme
-
-L’équipe locale de l’Association Feigenhain identifie des amérindiens brésiliens en difficulté et les met en contact avec des sponsors prêts à leur donner un coup de main. Nous nous concentrons particulièrement sur les étudiants et les personnes âgées.
-
-Très peu d’étudiants amérindiens réussissent à aller à l’université et les rares exceptions qui le font rencontrent de grandes difficultés pour financer leurs études. Votre parrainage les aide à payer leur hébergement en ville, leur nourriture et leurs livres.
-
-Les personnes âgées amérindiennes éprouvent de grandes difficultés lorsqu’elles souffrent de nouvelles maladies que la médecine traditionnelle est incapable de traiter. Souvent sans les moyens financiers, elles sont mises en difficulté devant de longues files d’attente pour avoir accès aux soins de santé publique au Brésil. Votre parrainage aide ces personnes âgées à payer les examens médicaux, les médicaments et à acheter de la nourriture en cas de besoin.
-
-### Soutien à un amérindien étudiant infirmier 
-L’association Feigenhain soutient un jeune un amérindien  étudiant infirmier du Parque Indígena do Xingú au Brésil. Ses deux parents vivent dans le village amérindien, mais il rêve de devenir infirmier. Ses plans sont de retourner au parc du Xingú après avoir obtenu son diplôme.
+L'association Feigenhain soutient un jeune amérindien étudiant infirmier du Parque Indígena do Xingú au Brésil. Ses deux parents vivent dans le village amérindien, mais il rêve de devenir infirmier et souhaite retourner au Xingú après avoir obtenu son diplôme.
 
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
 
-Il a besoin d’environ 300 euros par mois pour payer son logement et sa nourriture à Cárceres (Mato Grosso do Sul, Brésil), où se trouve son université. Vous pouvez l’aider à poursuivre ses études. Nous vous tiendrons au courant de ses progrès à l’université. Vous pouvez également être en contact direct avec lui. Tout ce que vous avez à faire est de créer un ordre de virement mensuel en euros à Feigenhain et nous nous occuperons du reste.
+Kuhupi a besoin d'environ 300 euros par mois pour payer son logement et sa nourriture à Cárceres (Mato Grosso do Sul, Brésil), où se trouve son université. Feigenhain finance une partie de ces frais, mais votre soutien est indispensable pour combler l'écart. Nous vous tiendrons régulièrement informé·e de ses progrès à l'université. Vous pouvez également être en contact direct avec lui. Il vous suffit de mettre en place un virement bancaire régulier en euros à Feigenhain — nous nous occupons du reste.
 
-## Soutien à l’association APIWATA
+[Retour](#)
 
-L’association Feigenhain soutient ponctuellement l’association des peuples autochtones du Triângulo do Amapari (APIWATA), l’une des trois associations créées par les amérindiens du Amapá, Brésil. Aujourd’hui, l’APIWATA agit principalement dans le soutien logistique à la santé et à l’éducation ainsi que l’achat des médicaments. Vous pouvez contribuer avec n’importe quel montant pour soutenir cette initiative.
+# Campagnes actuelles (suite)
+
+## Soins médicaux d'urgence
+
+Feigenhain prend en charge ponctuellement des soins médicaux urgents pour des personnes autochtones ou vulnérables qui n'ont pas accès aux soins nécessaires. Chaque cas est examiné individuellement par le Bureau. Si vous connaissez une personne dans le besoin, contactez-nous à <contact@feigenhain.org>.
+
+### Exemples d'interventions réalisées
+
+**Opération du bras — Manoel**
+Manoel vivait dans la banlieue de Macapá, dans l'état d'Amapá. Depuis plus de deux ans, il était incapable de travailler avec son bras droit qui avait été gravement blessé par un chien. Grâce à vos dons, Feigenhain a pu financer l'opération chirurgicale nécessaire.
+
+[![Manoel](/assets/img/campaigns/manoel-300x300.jpg)](/assets/img/campaigns/manoel.jpg)
+
+**Traitement dentaire d'un jeune amérindien Wayãpi**
+Feigenhain a réuni les ressources nécessaires pour le traitement dentaire complet d'un jeune amérindien Wayãpi au Brésil.
+
+[![Dental care for a young Amerindian](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
 
 [Retour](#)
 
 # Campagnes terminées
 
-## Aidez Manoel
-Manoel vit dans la banlieue de Macapá, dans l’état d’Amapá, l’une des régions les plus pauvres du Brésil. Toute sa famille dépend de lui. En mauvaise santé, depuis plus de deux ans Manoel est incapable de travailler avec son bras droit qu’a été gravement blessé par un chien. Manoel rêve de retourner au travail pour pouvoir aider sa famille, mais il ne dispose d’aucune ressource pour la chirurgie, dont le prix est d’environ 700 Euros. Notre campagne se poursuivra jusqu’à ce que nous ayons assez d’argent pour payer son opération. Vous pouvez nous aider à réaliser ce rêve. En contribuant à cette campagne spécifique, l’intégralité de votre don sera affectée à la chirurgie de Manoel. Aucune somme ne sera utilisée pour couvrir les dépenses ou les frais de fonctionnement de l’Association. Ceux-ci sont payés sur donations générales et sur ressources propres des membres fondateurs.
+## Centre d'appui aux élèves — Communauté de Tucano, Amapá
 
-[![Help Manoel](/assets/img/campaigns/manoel-300x300.jpg)](/assets/img/campaigns/manoel.jpg)
+Feigenhain a contribué au financement de la construction d'un centre d'appui éducatif pour les étudiant·e·s autochtones et ruraux de la région de Tucano, dans l'État d'Amapá au Brésil. Le centre, situé sur un terrain de trois hectares à Tucano (1.098N, 52.403W), dispose d'une salle de classe, d'une petite bibliothèque, d'un accès à Internet par satellite, d'une cuisine et d'un logement pour les enseignant·e·s bénévoles et les étudiant·e·s.
 
-## Traitement dentaire de jeune amérindien au Brésil
-Feigenhain a réuni les ressources nécessaires pour le traitement dentaire complet d’un jeune amérindien Wayãpi au Brésil. En contribuant à une campagne spécifique, l’intégralité de votre contribution ira à cette campagne. Aucune somme ne sera utilisée pour couvrir les dépenses ou les frais de fonctionnement de l’Association. Ceux-ci sont payés sur donations générales et sur ressources propres des membres fondateurs.
+[![Student Centre](/assets/img/campaigns/pedrabranca2-300x182.png)](/assets/img/campaigns/pedrabranca2.png)
+[![Student Centre](/assets/img/campaigns/pedrabranca3-300x225.jpg)](/assets/img/campaigns/pedrabranca3.jpg)
 
-[![Dental care for a young Amerindian](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
+Le centre est désormais construit et en activité. Merci à tous nos donateurs et donatrices pour avoir rendu ce projet possible.
+
+## Soutien à l'association APIWATA
+
+Feigenhain a apporté un soutien ponctuel à l'association des peuples autochtones du Triângulo do Amapari (APIWATA), qui agit principalement dans le soutien logistique à la santé et à l'éducation des communautés indigènes d'Amapá au Brésil. Cette campagne est à présent clôturée.
 
 [Retour](#)
 
@@ -100,69 +86,69 @@ Feigenhain a réuni les ressources nécessaires pour le traitement dentaire comp
 Feigenhain est une association enregistrée en France, créée le 12 septembre 2018 sous le numéro W133028431, et régie par la loi du 1er juillet 1901 et le décret du 16 août 1901 ([Association loi de 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901)). 
 
 Nous avons pour objet :
-- l’aide et la coopération humanitaire.
-- la protection de l’environnement naturel.
-- l’apport des solutions technologiques visant l’aide et la coopération humanitaire et la protection de l’environnement naturel.
-- la promotion et la réalisation d’ateliers ayant pour but la sauvegarde de la culture, du patrimoine immatériel, de l’histoire, du savoir et du savoir-faire.
-- la publication et la vente d’ouvrages, d’artisanat et d’espaces publicitaires en ligne, avec comme objectif de financer les activités de l’association.
-- la demande des financements participatifs ou collectifs et la collecte auprès du public pour ses projets d’aide et coopération humanitaire, pour la protection de l’environnement naturel, ainsi que pour la production des ouvrages.
-- toutes opérations pouvant se rattacher directement ou indirectement à l’objet social ou susceptibles d’en faciliter l’extension ou le développement de notre association.
+- l'aide et la coopération humanitaire.
+- la protection de l'environnement naturel.
+- l'apport des solutions technologiques visant l'aide et la coopération humanitaire et la protection de l'environnement naturel.
+- la promotion et la réalisation d'ateliers ayant pour but la sauvegarde de la culture, du patrimoine immatériel, de l'histoire, du savoir et du savoir-faire.
+- la publication et la vente d'ouvrages, d'artisanat et d'espaces publicitaires en ligne, ayant pour objectif de financer les activités de l'association.
+- la recherche de financements participatifs ou collectifs et la collecte auprès du public pour ses projets d'aide et coopération humanitaire, pour la protection de l'environnement naturel, ainsi que pour la production des ouvrages.
+- toutes opérations pouvant se rattacher directement ou indirectement à l'objet social ou susceptibles d'en faciliter l'extension ou le développement de notre association.
 
 [Retour](#)
 
-# Equipe
+# Équipe
 
 ## Cássio de Figueiredo
 
 [![Cássio de Figueiredo](/assets/img/cassio-283x300.jpg)](/assets/img/cassio.jpg)
 
 Membre fondateur \
-Titulaire d’un master 2 de recherche en anthropologie et d’une Licence en droit \
-<cassio@feigenhain.org>
+Titulaire d'un master 2 de recherche en anthropologie et d'une Licence en droit \
+<contact@feigenhain.org>
 
 ## Gregor Koenig
 
 [![Gregor Koenig](/assets/img/gregor-283x300.jpg)](/assets/img/gregor.jpg)
 
 Membre fondateur \
-Docteur en technologie médicale et titulaire d’un master 2 en informatique appliquée \
-<gregor@feigenhain.org> 
+Docteur en technologie médicale et titulaire d'un master 2 en informatique appliquée \
+<contact@feigenhain.org>
 
 [Retour](#)
 
 # Contact
 
-## Addresse postale
-Feigenhain Initiative \
+## Adresse postale
+Feigenhain - Initiative Humanitaire et Environnementale \
 55 Rue Grignan \
 13006 Marseille \
 France
 
 ## Coordonnées bancaires
-Feigenhain - Initiative \
+Feigenhain - Initiative Humanitaire et Environnementale \
 IBAN : FR76 1027 8089 9300 0205 6400 194 \
-BIC: CMCIFR2A \
+BIC : CMCIFR2A \
 RIB : 10278 08993 00020564001 94 \
-Bank: CCM Canebière, 65 La Canebière, 13001 Marseille, France
+Banque : CCM Canebière, 65 La Canebière, 13001 Marseille, France
 
 ## Email
-<contact@feigenhain.org> or
-
-<feigenhain@protonmail.com>
+<contact@feigenhain.org>
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
-    Version: OpenPGP.js v4.10.10    
-    xjMEYeU03RYJKwYBBAHaRw8BAQdAd2wevOr+KDHLOb8lO64yDikokSFmBIMU
-    59g8cGVwMz3NNWZlaWdlbmhhaW5AcHJvdG9ubWFpbC5jb20gPGZlaWdlbmhh
-    aW5AcHJvdG9ubWFpbC5jb20+wo8EEBYKACAFAmHlNN0GCwkHCAMCBBUICgIE
-    FgIBAAIZAQIbAwIeAQAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
-    176BeQ8BAJ4iJqLygWTov9lazYAkz8Kb5gitUasmLqG7/6KfJJruAQDnMKU6
-    2oIdrsylhe3vYb267rtAjtq+Q1+Mh3bSGMYmDs44BGHlNN0SCisGAQQBl1UB
-    BQEBB0CAjcwV9iZjXcappo4pZDFlkh3huuwwo731+SzFFSrWCgMBCAfCeAQY
-    FggACQUCYeU03QIbDAAhCRCbYrKN89e+gRYhBPs/DrMOZ7gphBr3DJtiso3z
-    176BRSgBAOKVMfvpHHf3xkVWDvVDN4JdnQLKF9kq9CAP9gMbfzzwAPsHJ09Q
-    tSdj58d5um09Et2+Gw9uzetHgfl+sppptOYcDg==
-    =PJYv
+    xjMEaeS9HxYJKwYBBAHaRw8BAQdA3LRXTg45ZWy6iJT8ThF/WZDi8i+FC8QG
+    XsCC/UCPk9TNL2NvbnRhY3RAZmVpZ2VuaGFpbi5vcmcgPGNvbnRhY3RAZmVp
+    Z2VuaGFpbi5vcmc+wsARBBMWCgCDBYJp5L0fAwsJBwkQC5JpRPsHE0BFFAAA
+    AAAAHAAgc2FsdEBub3RhdGlvbnMub3BlbnBncGpzLm9yZzkl3IC6IcDA6TKy
+    r3VKde09z7G792Y72xbOrgMioXenAxUKCAQWAAIBAhkBApsDAh4BFiEEKDMU
+    tklEdO7XTCWHC5JpRPsHE0AAACW8AP4qrFm1A+UlxkElCF5NOaIWZtPFOqjJ
+    eLXHNaOjSXrT+AD/UCKOp8fCqazWXg7flh9co5uO2rvS8bBgb7t8Ad+eQA7O
+    OARp5L0fEgorBgEEAZdVAQUBAQdAJRD6WnbMxUlLkQWfeLKlkECzdKi79WB+
+    8J04+wdRT1EDAQgHwr4EGBYKAHAFgmnkvR8JEAuSaUT7BxNARRQAAAAAABwA
+    IHNhbHRAbm90YXRpb25zLm9wZW5wZ3Bqcy5vcme0LAIhqfDQbPb/PJuwHeWN
+    3m0ya6OcjLBzAoCy//QO7gKbDBYhBCgzFLZJRHTu10wlhwuSaUT7BxNAAAAy
+    SAD+N8Y3ihNTpMDSdbTLfeFZp7Bq0LmTARgAmfRzUFZIaCMBAIe448SqRKTs
+    jeF5Q+mcglmrOlxDnLJHNRT4sAvvV38L
+    =76/X
     -----END PGP PUBLIC KEY BLOCK-----
 
 
