@@ -38,7 +38,7 @@ NB. Si vous avez votre domicile fiscal en France, le reçu qui vous sera délivr
 
 Feigenhain soutient financièrement des étudiant·e·s autochtones pour couvrir leurs frais de logement et d'alimentation durant leurs études universitaires. Très peu d'amérindien·ne·s parviennent à l'université — votre soutien leur permet de réaliser ce rêve et de revenir ensuite dans leurs communautés avec de nouvelles compétences.
 
-### Kuhupi Waurá
+### Bénéficiaire actuel : Kuhupi Waurá
 
 L'association soutient actuellement Kuhupi, un jeune amérindien étudiant infirmier du Parque Indígena do Xingú au Brésil. Il rêve de devenir infirmier et de retourner au Xingú après avoir obtenu son diplôme.
 
@@ -50,13 +50,13 @@ Kuhupi a besoin d'environ 300 euros par mois pour payer son logement et sa nourr
 
 Feigenhain prend en charge ponctuellement des soins médicaux urgents pour des personnes autochtones ou vulnérables qui n'ont pas accès aux soins nécessaires. Chaque cas est examiné individuellement par le Bureau. Si vous connaissez une personne dans le besoin, contactez-nous à <contact@feigenhain.org>.
 
-### Manoel — opération du bras
+### Aidé avec succès : Manoel — opération du bras
 
 Manoel vivait dans la banlieue de Macapá, en Amapá. Depuis plus de deux ans, il était incapable de travailler avec son bras droit, gravement blessé par un chien. Grâce à vos dons, Feigenhain a pu financer l'opération chirurgicale nécessaire.
 
 [![Manoel](/assets/img/campaigns/manoel-300x300.jpg)](/assets/img/campaigns/manoel.jpg)
 
-### Traitement dentaire d'un jeune amérindien Wayãpi
+### Aidé avec succès : traitement dentaire d'un jeune amérindien Wayãpi
 
 Feigenhain a réuni les ressources nécessaires pour le traitement dentaire complet d'un jeune amérindien Wayãpi au Brésil.
 
