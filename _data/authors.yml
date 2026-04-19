@@ -23,8 +23,6 @@ feigenhain:
   # Rearrange to change the order in which they appear
   social:
     email:           contact@feigenhain.org
-    twitter:         feigenhain
-    facebook:        feigenhain
     paypal:          feigenhain
     # github:          <username>
     # rss:             https://<url>/feed.xml

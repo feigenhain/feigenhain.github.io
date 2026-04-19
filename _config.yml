@@ -45,7 +45,7 @@ author:
   name:                Feigenhain Initiative
   email:               contact@feigenhain.org
   # # Used by `jekyll-seo-tag`:
-  twitter:             feigenhain
+  # twitter:             feigenhain
 
 # Add links to the sidebar.
 menu:
