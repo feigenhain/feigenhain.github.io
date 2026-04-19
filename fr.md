@@ -66,6 +66,8 @@ Feigenhain a réuni les ressources nécessaires pour le traitement dentaire comp
 
 # Campagnes terminées
 
+[Voir toutes les campagnes terminées →](/fr/archive/)
+
 - **Centre d'appui aux élèves — Tucano, Amapá** — Feigenhain a cofinancé la construction d'un centre éducatif pour les étudiant·e·s autochtones en Amapá. Le centre est construit et en activité.
 - **Soutien à l'association APIWATA** — Soutien ponctuel à une ONG autochtone d'Amapá pour ses activités de santé et d'éducation.
 
