@@ -135,8 +135,8 @@ PhD in biomedical engineering and MSc of applied computer science \
 
 ## Address
 Feigenhain Initiative \
-23 Rue Sainte Francoise \
-13002 Marseille \
+55 Rue Grignan \
+13006 Marseille \
 France
 
 ## Bank

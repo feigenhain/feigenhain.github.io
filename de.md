@@ -145,8 +145,8 @@ Doktor der Medizintechnik und Diplom Ingenieur der Angewandten Informatik \
 
 ## Adresse
 Feigenhain Initiative \
-23 Rue Sainte Francoise \
-13002 Marseille \
+55 Rue Grignan \
+13006 Marseille \
 Frankreich
 
 ## Bankverbindung

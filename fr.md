@@ -134,8 +134,8 @@ Docteur en technologie médicale et titulaire d’un master 2 en informatique ap
 
 ## Addresse postale
 Feigenhain Initiative \
-23 Rue Sainte Francoise \
-13002 Marseille \
+55 Rue Grignan \
+13006 Marseille \
 France
 
 ## Coordonnées bancaires

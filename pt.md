@@ -132,8 +132,8 @@ Doutor em tecnologia médica e titular de mestrado científico em ciências da c
 
 ## Endereço
 Feigenhain Initiative \
-23 Rue Sainte Francoise \
-13002 Marseille \
+55 Rue Grignan \
+13006 Marseille \
 França
 
 ## Conta bancária
