@@ -8,10 +8,16 @@ no_excerpt: false
 hide_image: false
 hide_description: true
 ---
-Feigenhain est une association enregistrée en France, créée le 12 septembre 2018 sous le numéro W133028431, et régie par la loi du 1er juillet 1901 et le décret du 16 août 1901 (Association loi de 1901).  \
+Feigenhain est une association enregistrée en France, créée le 12 septembre 2018 sous le numéro W133028431, et régie par la loi du 1er juillet 1901 et le décret du 16 août 1901 (Association loi de 1901).
+
 Nous avons pour objet :
 - l'aide et la coopération humanitaire.
 - la protection de l'environnement naturel.
+- l'apport des solutions technologiques visant l'aide et la coopération humanitaire et la protection de l'environnement naturel.
+- la promotion et la réalisation d'ateliers ayant pour but la sauvegarde de la culture, du patrimoine immatériel, de l'histoire, du savoir et du savoir-faire.
+- la publication et la vente d'ouvrages, d'artisanat et d'espaces publicitaires en ligne, ayant pour objectif de financer les activités de l'association.
+- la recherche de financements participatifs ou collectifs et la collecte auprès du public pour ses projets d'aide et coopération humanitaire et pour la protection de l'environnement naturel.
+- toutes opérations pouvant se rattacher directement ou indirectement à l'objet social ou susceptibles d'en faciliter l'extension ou le développement de notre association.
 
 ---
 
@@ -19,7 +25,6 @@ Nous avons pour objet :
 - [Campagnes actuelles](#campagnes-actuelles)
 - [Campagnes terminées](#campagnes-terminées)
 - [Qui sommes-nous](#qui-sommes-nous)
-- [Équipe](#équipe)
 - [Contact](#contact)
 
 # Aidez Feigenhain
@@ -76,21 +81,6 @@ Feigenhain a réuni les ressources nécessaires pour le traitement dentaire comp
 [Retour](#)
 
 # Qui sommes-nous
-
-Feigenhain est une association enregistrée en France, créée le 12 septembre 2018 sous le numéro W133028431, et régie par la loi du 1er juillet 1901 et le décret du 16 août 1901 ([Association loi de 1901](https://fr.wikipedia.org/wiki/Association_loi_de_1901)). 
-
-Nous avons pour objet :
-- l'aide et la coopération humanitaire.
-- la protection de l'environnement naturel.
-- l'apport des solutions technologiques visant l'aide et la coopération humanitaire et la protection de l'environnement naturel.
-- la promotion et la réalisation d'ateliers ayant pour but la sauvegarde de la culture, du patrimoine immatériel, de l'histoire, du savoir et du savoir-faire.
-- la publication et la vente d'ouvrages, d'artisanat et d'espaces publicitaires en ligne, ayant pour objectif de financer les activités de l'association.
-- la recherche de financements participatifs ou collectifs et la collecte auprès du public pour ses projets d'aide et coopération humanitaire, pour la protection de l'environnement naturel, ainsi que pour la production des ouvrages.
-- toutes opérations pouvant se rattacher directement ou indirectement à l'objet social ou susceptibles d'en faciliter l'extension ou le développement de notre association.
-
-[Retour](#)
-
-# Équipe
 
 ## Cássio de Figueiredo
 
