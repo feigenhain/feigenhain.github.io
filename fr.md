@@ -34,33 +34,33 @@ NB. Si vous avez votre domicile fiscal en France, le reçu qui vous sera délivr
 
 # Campagnes actuelles
 
-## Bourse universitaire — Kuhupi Waurá
+## Bourse universitaire
 
-L'association Feigenhain soutient un jeune amérindien étudiant infirmier du Parque Indígena do Xingú au Brésil. Ses deux parents vivent dans le village amérindien, mais il rêve de devenir infirmier et souhaite retourner au Xingú après avoir obtenu son diplôme.
+Feigenhain soutient financièrement des étudiant·e·s autochtones pour couvrir leurs frais de logement et d'alimentation durant leurs études universitaires. Très peu d'amérindien·ne·s parviennent à l'université — votre soutien leur permet de réaliser ce rêve et de revenir ensuite dans leurs communautés avec de nouvelles compétences.
+
+### Kuhupi Waurá
+
+L'association soutient actuellement Kuhupi, un jeune amérindien étudiant infirmier du Parque Indígena do Xingú au Brésil. Il rêve de devenir infirmier et de retourner au Xingú après avoir obtenu son diplôme.
 
 [![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
 
-Kuhupi a besoin d'environ 300 euros par mois pour payer son logement et sa nourriture à Cárceres (Mato Grosso do Sul, Brésil), où se trouve son université. Feigenhain finance une partie de ces frais, mais votre soutien est indispensable pour combler l'écart. Nous vous tiendrons régulièrement informé·e de ses progrès à l'université. Vous pouvez également être en contact direct avec lui. Il vous suffit de mettre en place un virement bancaire régulier en euros à Feigenhain — nous nous occupons du reste.
-
-[Retour](#)
-
-# Campagnes actuelles (suite)
+Kuhupi a besoin d'environ 300 euros par mois pour payer son logement et sa nourriture à Cárceres (Mato Grosso do Sul, Brésil). Feigenhain finance une partie de ces frais, mais votre soutien est indispensable pour combler l'écart. Il vous suffit de mettre en place un virement bancaire régulier en euros à Feigenhain — nous nous occupons du reste.
 
 ## Soins médicaux d'urgence
 
 Feigenhain prend en charge ponctuellement des soins médicaux urgents pour des personnes autochtones ou vulnérables qui n'ont pas accès aux soins nécessaires. Chaque cas est examiné individuellement par le Bureau. Si vous connaissez une personne dans le besoin, contactez-nous à <contact@feigenhain.org>.
 
-### Exemples d'interventions réalisées
+### Manoel — opération du bras
 
-**Opération du bras — Manoel**
-Manoel vivait dans la banlieue de Macapá, dans l'état d'Amapá. Depuis plus de deux ans, il était incapable de travailler avec son bras droit qui avait été gravement blessé par un chien. Grâce à vos dons, Feigenhain a pu financer l'opération chirurgicale nécessaire.
+Manoel vivait dans la banlieue de Macapá, en Amapá. Depuis plus de deux ans, il était incapable de travailler avec son bras droit, gravement blessé par un chien. Grâce à vos dons, Feigenhain a pu financer l'opération chirurgicale nécessaire.
 
 [![Manoel](/assets/img/campaigns/manoel-300x300.jpg)](/assets/img/campaigns/manoel.jpg)
 
-**Traitement dentaire d'un jeune amérindien Wayãpi**
+### Traitement dentaire d'un jeune amérindien Wayãpi
+
 Feigenhain a réuni les ressources nécessaires pour le traitement dentaire complet d'un jeune amérindien Wayãpi au Brésil.
 
-[![Dental care for a young Amerindian](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
+[![Traitement dentaire](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
 
 [Retour](#)
 
