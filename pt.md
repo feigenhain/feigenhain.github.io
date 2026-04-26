@@ -35,21 +35,21 @@ Ajude a financiar nossos projetos com sua contribuição. Faça uma doação ún
 
 # Campanhas ativas
 
-## Bolsa universitária
-
-A Feigenhain apoia financeiramente estudantes indígenas para cobrir seus custos de moradia e alimentação durante a graduação. Pouquíssimos indígenas chegam à universidade — seu apoio ajuda a realizar esse sonho e a devolver às suas comunidades profissionais qualificados.
-
-### Beneficiário atual: Kuhupi Waurá
-
-Kuhupi é um jovem indígena estudante de enfermagem da Aldeia Pyulaga, no Parque Indígena do Xingú, Brasil. Seu sonho é tornar-se enfermeiro e retornar ao Xingú após se formar.
-
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
-
-Kuhupi precisa de cerca de 300 euros por mês para pagar moradia e alimentação em Cáceres (Mato Grosso do Sul), onde fica sua universidade. A Feigenhain cobre parte desses custos, mas seu apoio é essencial para fechar a lacuna. Basta configurar uma transferência bancária recorrente em euros para a Feigenhain — cuidamos do resto.
-
 ## Cuidados médicos de emergência
 
 A Feigenhain cobre pontualmente custos médicos urgentes para pessoas indígenas ou em situação de vulnerabilidade que não têm acesso aos cuidados necessários. Cada caso é analisado individualmente pelo Bureau. Se você conhece alguém que precisa de ajuda, entre em contato pelo <contact@feigenhain.org>.
+
+### Caso em curso: Júnior — cirurgia de hérnia inguinal
+
+Júnior tem 28 anos e vive no estado do Amapá, na Amazônia brasileira, na comunidade indígena Karipuna. Ele sofre de uma hérnia inguinal avançada que o impede de trabalhar e coloca sua vida em risco: vive em uma área remota, longe de qualquer estrutura cirúrgica, e um atraso no tratamento pode ser fatal.
+
+A Feigenhain lança uma campanha de **5.000 €** para financiar todo o seu atendimento: consulta especializada, exames pré-operatórios, cirurgia, anestesia, despesas hospitalares e transporte até Macapá. Cada despesa será comprovada por nota fiscal. Se houver saldo após a intervenção, ele será revertido integralmente em apoio à comunidade Karipuna.
+
+[![Júnior](/assets/img/campaigns/junior-300x400.jpeg)](/assets/img/campaigns/junior.jpeg)
+
+- [Doe via GoFundMe](https://www.gofundme.com/f/help-fund-juniors-surgery-in-the-brazilian-amazon/)
+- [Doe por cartão ou PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LA3VKUPP25K82&source=url&lc=pt_BR)
+- [Doe por transferência bancária](#contact)
 
 ### Ajudado com sucesso: Manoel — cirurgia no braço
 
@@ -62,6 +62,20 @@ Manoel morava na periferia de Macapá, no Amapá. Há mais de dois anos estava i
 A Feigenhain angariou os recursos necessários para o tratamento dentário completo de um jovem indígena Wayãpi no Brasil.
 
 [![Tratamento dentário](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
+
+[Voltar](#)
+
+## Bolsa universitária
+
+A Feigenhain apoia financeiramente estudantes indígenas para cobrir seus custos de moradia e alimentação durante a graduação. Pouquíssimos indígenas chegam à universidade — seu apoio ajuda a realizar esse sonho e a devolver às suas comunidades profissionais qualificados.
+
+### Beneficiário atual: Kuhupi Waurá
+
+Kuhupi é um jovem indígena estudante de enfermagem da Aldeia Pyulaga, no Parque Indígena do Xingú, Brasil. Seu sonho é tornar-se enfermeiro e retornar ao Xingú após se formar.
+
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
+
+Kuhupi precisa de cerca de 300 euros por mês para pagar moradia e alimentação em Cáceres (Mato Grosso do Sul), onde fica sua universidade. A Feigenhain cobre parte desses custos, mas seu apoio é essencial para fechar a lacuna. Basta configurar uma transferência bancária recorrente em euros para a Feigenhain — cuidamos do resto.
 
 [Voltar](#)
 

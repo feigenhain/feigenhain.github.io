@@ -37,21 +37,21 @@ Choose the corresponding option in the PayPal dialogue box.
 
 # Ongoing Campaigns
 
-## University Scholarship
-
-Feigenhain supports indigenous students financially to cover their accommodation and living costs during their university studies. Very few indigenous people make it to university — your support helps them achieve this dream and return to their communities with new skills.
-
-### Current beneficiary: Kuhupi Waurá
-
-Kuhupi is a young Amerindian nursing student from the Aldeia Pyulaga in the Parque Indígena do Xingú, Brazil. His dream is to become a nurse and return to his community after graduating.
-
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
-
-Kuhupi needs approximately 300 Euros per month to pay for accommodation and food in Cárceres (Mato Grosso do Sul, Brazil), where his university is. Feigenhain covers part of these costs, but your support is essential to bridge the gap. All you need to do is set up a standing order for a monthly bank transfer in Euros to Feigenhain — we will look after the rest.
-
 ## Emergency Medical Care
 
 Feigenhain covers urgent medical costs for indigenous or vulnerable people who have no access to the care they need. Each case is assessed individually by the Bureau. If you know someone in need, contact us at <contact@feigenhain.org>.
+
+### Current case: Júnior — inguinal hernia surgery
+
+Júnior is 28 years old and lives in the state of Amapá, in the Brazilian Amazon, within the Karipuna indigenous community. He suffers from a severe inguinal hernia that prevents him from working and puts his life at risk: he lives in a remote area far from any surgical facility, and a delay in treatment could prove fatal.
+
+Feigenhain is raising **5,000 €** to cover his full medical care: specialist consultation, pre-operative tests, surgery, anaesthesia, hospital costs and transport to Macapá. Every expense will be documented. Any surplus after the procedure will be returned to support the Karipuna community.
+
+[![Júnior](/assets/img/campaigns/junior-300x400.jpeg)](/assets/img/campaigns/junior.jpeg)
+
+- [Donate via GoFundMe](https://www.gofundme.com/f/help-fund-juniors-surgery-in-the-brazilian-amazon/)
+- [Donate by card or PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LA3VKUPP25K82&source=url&lc=en_US)
+- [Donate by bank transfer](#contact)
 
 ### Successfully helped: Manoel — arm surgery
 
@@ -64,6 +64,20 @@ Manoel lived in the suburbs of Macapá, in the state of Amapá. For over two yea
 Feigenhain raised the necessary funds for the complete dental treatment of a young Wayãpi Amerindian in Brazil.
 
 [![Dental care](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
+
+[Back to top](#)
+
+## University Scholarship
+
+Feigenhain supports indigenous students financially to cover their accommodation and living costs during their university studies. Very few indigenous people make it to university — your support helps them achieve this dream and return to their communities with new skills.
+
+### Current beneficiary: Kuhupi Waurá
+
+Kuhupi is a young Amerindian nursing student from the Aldeia Pyulaga in the Parque Indígena do Xingú, Brazil. His dream is to become a nurse and return to his community after graduating.
+
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
+
+Kuhupi needs approximately 300 Euros per month to pay for accommodation and food in Cárceres (Mato Grosso do Sul, Brazil), where his university is. Feigenhain covers part of these costs, but your support is essential to bridge the gap. All you need to do is set up a standing order for a monthly bank transfer in Euros to Feigenhain — we will look after the rest.
 
 [Back to top](#)
 

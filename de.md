@@ -36,21 +36,21 @@ Wir freuen uns, wenn Sie unsere Aktivitäten mit einer Spende unterstützen. Sie
 
 # Aktuelle Kampagnen
 
-## Universitätsstipendium
-
-Feigenhain unterstützt indigene Studierende finanziell, um ihre Unterkunfts- und Lebenshaltungskosten während des Studiums zu decken. Nur sehr wenige Indigene schaffen den Weg zur Universität — Ihre Unterstützung hilft ihnen, diesen Traum zu verwirklichen und mit neuen Kompetenzen in ihre Gemeinschaft zurückzukehren.
-
-### Aktueller Begünstigter: Kuhupi Waurá
-
-Kuhupi ist ein junger indigener Krankenpflegestudent aus dem Dorf Pyulaga im Parque Indígena do Xingú in Brasilien. Er träumt davon, Krankenpfleger zu werden und nach seinem Abschluss in seine Gemeinschaft zurückzukehren.
-
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
-
-Kuhupi benötigt rund 300 Euro pro Monat für Unterkunft und Verpflegung in Cárceres (Mato Grosso do Sul, Brasilien), wo sich seine Universität befindet. Feigenhain übernimmt einen Teil dieser Kosten, aber Ihre Unterstützung ist notwendig, um die Lücke zu schließen. Sie richten einfach einen Dauerauftrag auf unser Vereinskonto ein — wir kümmern uns um den Rest.
-
 ## Medizinische Notfallversorgung
 
 Feigenhain übernimmt punktuell dringende Behandlungskosten für indigene oder vulnerable Personen, die keinen Zugang zu notwendiger medizinischer Versorgung haben. Jeder Fall wird vom Vorstand individuell geprüft. Wenn Sie jemanden kennen, der Hilfe benötigt, kontaktieren Sie uns unter <contact@feigenhain.org>.
+
+### Aktueller Fall: Júnior — Operation einer Leistenhernie
+
+Júnior ist 28 Jahre alt und lebt im brasilianischen Bundesstaat Amapá, in der indigenen Gemeinschaft der Karipuna. Er leidet an einer fortgeschrittenen Leistenhernie, die ihn arbeitsunfähig macht und sein Leben gefährdet: Er lebt in einer abgelegenen Region weit von jeder chirurgischen Einrichtung entfernt — eine Verzögerung der Behandlung könnte tödlich sein.
+
+Feigenhain startet eine Spendenaktion über **5.000 €** für seine vollständige medizinische Versorgung: Fachkonsultation, präoperative Untersuchungen, Operation, Anästhesie, Krankenhauskosten und Transport nach Macapá. Jede Ausgabe wird durch eine Rechnung belegt. Ein etwaiger Überschuss nach der Operation wird vollständig zur Unterstützung der Karipuna-Gemeinschaft verwendet.
+
+[![Júnior](/assets/img/campaigns/junior-300x400.jpeg)](/assets/img/campaigns/junior.jpeg)
+
+- [Spenden via GoFundMe](https://www.gofundme.com/f/help-fund-juniors-surgery-in-the-brazilian-amazon/)
+- [Spenden per Karte oder PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LA3VKUPP25K82&source=url&lc=de_DE)
+- [Spenden per Banküberweisung](#contact)
 
 ### Erfolgreich geholfen: Manoel — Armoperation
 
@@ -63,6 +63,20 @@ Manoel lebte am Stadtrand von Macapá, im Bundesstaat Amapá. Seit über zwei Ja
 Feigenhain hat die notwendigen Mittel für eine vollständige Zahnbehandlung eines jungen Indigenen aus Brasilien aufgebracht.
 
 [![Zahnbehandlung](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
+
+[Nach oben](#)
+
+## Universitätsstipendium
+
+Feigenhain unterstützt indigene Studierende finanziell, um ihre Unterkunfts- und Lebenshaltungskosten während des Studiums zu decken. Nur sehr wenige Indigene schaffen den Weg zur Universität — Ihre Unterstützung hilft ihnen, diesen Traum zu verwirklichen und mit neuen Kompetenzen in ihre Gemeinschaft zurückzukehren.
+
+### Aktueller Begünstigter: Kuhupi Waurá
+
+Kuhupi ist ein junger indigener Krankenpflegestudent aus dem Dorf Pyulaga im Parque Indígena do Xingú in Brasilien. Er träumt davon, Krankenpfleger zu werden und nach seinem Abschluss in seine Gemeinschaft zurückzukehren.
+
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
+
+Kuhupi benötigt rund 300 Euro pro Monat für Unterkunft und Verpflegung in Cárceres (Mato Grosso do Sul, Brasilien), wo sich seine Universität befindet. Feigenhain übernimmt einen Teil dieser Kosten, aber Ihre Unterstützung ist notwendig, um die Lücke zu schließen. Sie richten einfach einen Dauerauftrag auf unser Vereinskonto ein — wir kümmern uns um den Rest.
 
 [Nach oben](#)
 

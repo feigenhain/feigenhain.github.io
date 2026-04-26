@@ -39,21 +39,21 @@ NB. Si vous avez votre domicile fiscal en France, le reçu qui vous sera délivr
 
 # Campagnes actuelles
 
-## Bourse universitaire
-
-Feigenhain soutient financièrement des étudiant·e·s autochtones pour couvrir leurs frais de logement et d'alimentation durant leurs études universitaires. Très peu d'amérindien·ne·s parviennent à l'université — votre soutien leur permet de réaliser ce rêve et de revenir ensuite dans leurs communautés avec de nouvelles compétences.
-
-### Bénéficiaire actuel : Kuhupi Waurá
-
-L'association soutient actuellement Kuhupi, un jeune amérindien étudiant infirmier du Parque Indígena do Xingú au Brésil. Il rêve de devenir infirmier et de retourner au Xingú après avoir obtenu son diplôme.
-
-[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
-
-Kuhupi a besoin d'environ 300 euros par mois pour payer son logement et sa nourriture à Cárceres (Mato Grosso do Sul, Brésil). Feigenhain finance une partie de ces frais, mais votre soutien est indispensable pour combler l'écart. Il vous suffit de mettre en place un virement bancaire régulier en euros à Feigenhain — nous nous occupons du reste.
-
 ## Soins médicaux d'urgence
 
 Feigenhain prend en charge ponctuellement des soins médicaux urgents pour des personnes autochtones ou vulnérables qui n'ont pas accès aux soins nécessaires. Chaque cas est examiné individuellement par le Bureau. Si vous connaissez une personne dans le besoin, contactez-nous à <contact@feigenhain.org>.
+
+### Cas en cours : Júnior — opération pour hernie inguinale
+
+Júnior a 28 ans. Il vit dans l'État d'Amapá, en Amazonie brésilienne, au sein de la communauté amérindienne Karipuna. Il souffre d'une hernie inguinale avancée qui l'empêche de travailler et met sa vie en danger : il réside dans une zone reculée, loin de tout plateau chirurgical, et un retard de prise en charge pourrait être fatal.
+
+Feigenhain lance une collecte de **5 000 €** pour financer l'ensemble de sa prise en charge : consultation spécialisée, examens préopératoires, intervention chirurgicale, anesthésie, frais hospitaliers et transport jusqu'à Macapá. Chaque dépense sera justifiée par facture. Si un solde subsiste après l'intervention, il sera reversé à des actions de soutien à la communauté Karipuna.
+
+[![Júnior](/assets/img/campaigns/junior-300x400.jpeg)](/assets/img/campaigns/junior.jpeg)
+
+- [Faire un don via GoFundMe](https://www.gofundme.com/f/help-fund-juniors-surgery-in-the-brazilian-amazon/)
+- [Faire un don par carte ou PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LA3VKUPP25K82&source=url&lc=fr_FR)
+- [Faire un don par virement bancaire](#contact)
 
 ### Aidé avec succès : Manoel — opération du bras
 
@@ -66,6 +66,20 @@ Manoel vivait dans la banlieue de Macapá, en Amapá. Depuis plus de deux ans, i
 Feigenhain a réuni les ressources nécessaires pour le traitement dentaire complet d'un jeune amérindien Wayãpi au Brésil.
 
 [![Traitement dentaire](/assets/img/campaigns/dentist-300x225.jpeg)](/assets/img/campaigns/dentist.jpeg)
+
+[Retour](#)
+
+## Bourse universitaire
+
+Feigenhain soutient financièrement des étudiant·e·s autochtones pour couvrir leurs frais de logement et d'alimentation durant leurs études universitaires. Très peu d'amérindien·ne·s parviennent à l'université — votre soutien leur permet de réaliser ce rêve et de revenir ensuite dans leurs communautés avec de nouvelles compétences.
+
+### Bénéficiaire actuel : Kuhupi Waurá
+
+L'association soutient actuellement Kuhupi, un jeune amérindien étudiant infirmier du Parque Indígena do Xingú au Brésil. Il rêve de devenir infirmier et de retourner au Xingú après avoir obtenu son diplôme.
+
+[![Kuhupi Waurá](/assets/img/campaigns/kuhupi1-300x225.jpeg)](/assets/img/campaigns/kuhupi1.jpeg)
+
+Kuhupi a besoin d'environ 300 euros par mois pour payer son logement et sa nourriture à Cárceres (Mato Grosso do Sul, Brésil). Feigenhain finance une partie de ces frais, mais votre soutien est indispensable pour combler l'écart. Il vous suffit de mettre en place un virement bancaire régulier en euros à Feigenhain — nous nous occupons du reste.
 
 [Retour](#)
 
